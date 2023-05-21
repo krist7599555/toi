@@ -1,3 +1,6 @@
+/**
+QuickSum + Combinatoric
+*/
 #include <iostream>
 #include <vector>
 #define for_(i, k, n) for (int i = k; i < n; ++i)
@@ -10,7 +13,6 @@ const int MAXN2 = OFFSET + MAXN + OFFSET;
 int tr[MAXN2][MAXN2]; // sum 45degree to top-right
 int tl[MAXN2][MAXN2]; // sum 45degree to top-left
 int pascal[MAXN2][MAXN2];
-
 
 int main() {
   // static
