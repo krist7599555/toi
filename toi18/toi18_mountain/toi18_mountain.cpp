@@ -30,7 +30,6 @@ int main() {
     std::cin >> p.x >> p.y;
   }
 
-
   // DP state definition
   lli dp[MAXN][MAXN];
   // dp(node, food) = พลังงานน้อยสุดที่เดินจาก 0 --> node โดยกินอาหาร food ครั้ง
