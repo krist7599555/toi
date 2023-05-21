@@ -1,3 +1,8 @@
+/**
+Dynamic Programmin 2 ขั้น
+- ขั้น 1 ช่วงดีสุดที่ไม่ตัด
+- ขั้น 2 ลองตัดหลายๆช่วง
+*/
 #include <iostream>
 #include <algorithm>
 #include <cmath>
