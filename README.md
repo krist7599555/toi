@@ -27,3 +27,9 @@
 - [toi18_constellation](./toi18/toi18_constellation)
 
   <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/bc0f9415-1d77-493e-835c-7a4dd7f37add">
+
+## TOI17
+
+- [toi17_wall](./toi17/toi17_wall)
+
+- [toi17_sequel](./toi17/toi17_sequel)
