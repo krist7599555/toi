@@ -14,8 +14,8 @@ typedef long long lli;
 
 // ให้ว่า sum (max k-th ตัวในกลุ่ม) >= minimum_sum_noodle_pershop จะแบ่งได้กี่กลุ่ม
 int maximum_noodleshop(const std::vector<int>& noodles, 
-                       lli minimum_sum_noodle_pershop,
-                       int noodle_count_pershop) {
+                       const lli minimum_sum_noodle_pershop,
+                       const int noodle_count_pershop) {
   int count_shop = 0;
   lli pq_sum = 0; // ผลรวมของทุกตัวใน pq
   std::priority_queue<lli, std::vector<lli>, std::greater<lli>> pq;
