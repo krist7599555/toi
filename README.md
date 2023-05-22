@@ -30,6 +30,8 @@
 
 ## TOI17
 
+- [toi17_noodle](./toi17/toi17_noodle)
+
 - [toi17_wall](./toi17/toi17_wall)
 
 - [toi17_sequel](./toi17/toi17_sequel)
