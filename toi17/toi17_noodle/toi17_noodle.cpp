@@ -55,7 +55,7 @@ int main() {
   lli l = 0;
   lli r = std::accumulate(all(input), 0LL) / n_shop;
   while (l < r) {
-    lli m = (l + r) / 2;
+    lli m = (l + r) / 2; // minimum_sum_noodle_pershop 
     if (maximum_noodleshop(input, m, noodle_count_pershop) >= n_shop) {
       l = m + 1;
     } else {
