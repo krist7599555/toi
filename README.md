@@ -2,6 +2,8 @@
 
 เฉลย TOI (TOI Thailand Olympiad in Informatics)
 
+contribution is always wellcome
+
 ## TOI18
 
 - [toi18_shopping](./toi18/toi18_shopping)
@@ -35,3 +37,35 @@
 - [toi17_wall](./toi17/toi17_wall)
 
 - [toi17_sequel](./toi17/toi17_sequel)
+
+## TOI 16 TODO!
+
+## TOI 15 TODO!
+
+## TOI 14 TODO!
+
+## TOI 13 TODO!
+
+## TOI 12 TODO!
+
+## TOI 11 TODO!
+
+## TOI 10 TODO!
+
+## TOI 9 TODO!
+
+## TOI 8 TODO!
+
+## TOI 7 TODO!
+
+## TOI 6 TODO!
+
+## TOI 5 TODO!
+
+## TOI 4 TODO!
+
+## TOI 3 TODO!
+
+## TOI 2 TODO!
+
+## TOI 1 TODO!
