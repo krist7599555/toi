@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "[!t]*/**": true,
+    "t[!o]*/**": true,
+    "to[!i]*/**": true,
+    "toi[!1]*/**": true,
+    "toi1[!9]*/**": true,
+    "toi19/[!t]*/**": true,
+    "toi19/t[!o]*/**": true,
+    "toi19/to[!i]*/**": true,
+    "toi19/toi[!1]*/**": true,
+    "toi19/toi1[!9]*/**": true,
+    "toi19/toi19[!_]*/**": true,
+    "toi19/toi19_[!m]*/**": true,
+    "toi19/toi19_m[!e]*/**": true,
+    "toi19/toi19_me[!r]*/**": true,
+    "toi19/toi19_mer[!g]*/**": true,
+    "toi19/toi19_merg[!e]*/**": true
+  }
+}
