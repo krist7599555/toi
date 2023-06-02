@@ -2,6 +2,7 @@
 #include <vector>
 #include <numeric>
 #include <algorithm>
+#include <cassert>
 #define all(x)  (x).begin(), (x).end()
 
 struct Data {
