@@ -8,11 +8,7 @@ contribution is always wellcome
 
 <img width="500" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/e910a63e-0e33-4415-bfe0-28f28c3815d1">
 
-มหาวิทยาลัยนเรศวร 22-25 พฤษภาคม พ.ศ. 2566
-
-นับ score เป็นแบบมัดเคส โดยต้องถูกทุกเคสในมัดถึงจะได้คะแนน. และคะแนนจะไม่มีลดลง เมื่อมัดไหนเคยผ่านแล้วก็ถือว่าได้คะแนนแล้วไม่ต้องแก้อีก
-
-ใช้ compiler `g++ -std=C++14 -O2`
+มหาวิทยาลัยนเรศวร 22-25 พฤษภาคม พ.ศ. 2566 [website](https://toi19.nu.ac.th)
 
 ### Day 1
 
@@ -44,22 +40,20 @@ contribution is always wellcome
 
 ## TOI18
 
-- [toi18_shopping](./toi18/toi18_shopping)
+<img width="500" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/63d74d86-33a1-4be2-9388-5d5a0cc912de">
 
-  <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/cab4ce7c-5d38-4118-9553-ee980695a05c">
+มหาวิทยาลัยเชียงใหม่ 1-4 มิถุนายน พ.ศ. 2565 [website](https://toi18.science.cmu.ac.th)
 
-- [toi18_sausage](./toi18/toi18_sausage)
+- นับ score เป็นแบบมัดเคส โดยต้องถูกทุกเคสในมัดถึงจะได้คะแนน
+- คะแนนจะไม่มีลดลง เมื่อมัดไหนเคยผ่านแล้วก็ถือว่าได้คะแนนแล้วไม่ต้องแก้อีก
+- ใช้ compiler `g++ -std=C++14 -O2`
 
-  <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/cee65a0e-a8c1-4cfd-b4aa-e677ef607043">
+### Day 1
 
 - [toi18_mountain](./toi18/toi18_mountain)
 
   <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/2caed7c8-5601-4969-9dea-a54da40ceb11">
-
-- [toi18_gecko](./toi18/toi18_gecko)
-
-  <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/38b4d87c-0304-4d26-90a0-9ddb8706e481">
-
+  
 - [toi18_garden](./toi18/toi18_garden)
 
   <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/f49b28cb-9821-4501-a709-921476f11828">
@@ -68,15 +62,51 @@ contribution is always wellcome
 
   <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/bc0f9415-1d77-493e-835c-7a4dd7f37add">
 
+### Day 2
+
+- [toi18_shopping](./toi18/toi18_shopping)
+
+  <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/cab4ce7c-5d38-4118-9553-ee980695a05c">
+
+- [toi18_sausage](./toi18/toi18_sausage)
+
+  <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/cee65a0e-a8c1-4cfd-b4aa-e677ef607043">
+
+
+- [toi18_gecko](./toi18/toi18_gecko)
+
+  <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/38b4d87c-0304-4d26-90a0-9ddb8706e481">
+
+
 ## TOI17
 
-- [toi17_noodle](./toi17/toi17_noodle)
+<img width="500" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/6db4d777-784c-4e9f-a3af-7a7a14ee2d0e">
+
+มหาวิทยาลัยวลัยลักษณ์ 9-12 ธันวาคม พ.ศ. 2564 [facebook](https://www.facebook.com/100064071461604)
+
+- แข่งขันแบบ online
+
+### Day 1
 
 - [toi17_wall](./toi17/toi17_wall)
 
+- [toi17_noodle](./toi17/toi17_noodle)
+
+### Day 2
+
 - [toi17_sequel](./toi17/toi17_sequel)
 
-## TOI 16 TODO!
+## TOI 16
+
+<img width="500" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/2f27ed04-9833-45fe-bd1f-44980577c476">
+
+มหาวิทยาลัยขอนแก่น 28-30 พฤศจิกายน พ.ศ. 2563 [facebook](https://www.facebook.com/toi2020.kku)
+
+- ตำนานโจทย์อภิมหา observe 
+
+### Day 1
+
+### Day 2
 
 ## TOI 15 TODO!
 
@@ -90,6 +120,8 @@ contribution is always wellcome
 
 ## TOI 10 TODO!
 
+- เป็นครั้งแรกที่เห็นคะแนนจาก testcase จริงระหว่างแข่ง
+
 ## TOI 9 TODO!
 
 ## TOI 8 TODO!
@@ -102,8 +134,16 @@ contribution is always wellcome
 
 ## TOI 4 TODO!
 
+- ใช้ `c++98`
+
 ## TOI 3 TODO!
 
 ## TOI 2 TODO!
 
 ## TOI 1 TODO!
+
+- รับแค่ภาษา turbo c มีข้อจำกัดด้านการประกาศ array มากมาย
+- ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
+
+---
+
