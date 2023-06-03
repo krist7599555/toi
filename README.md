@@ -2,7 +2,7 @@
 
 เฉลย TOI (TOI Thailand Olympiad in Informatics)
 
-contribution is always wellcome
+contribution is always welcome
 
 ## TOI19
 
@@ -100,7 +100,7 @@ contribution is always wellcome
 
 <img width="500" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/2f27ed04-9833-45fe-bd1f-44980577c476">
 
-มหาวิทยาลัยขอนแก่น 28-30 พฤศจิกายน พ.ศ. 2563 [facebook](https://www.facebook.com/toi2020.kku)
+มหาวิทยาลัยขอนแก่น 28 พฤศจิกายน - 1 ธันวาคม พ.ศ. 2563 [facebook](https://www.facebook.com/toi2020.kku)
 
 - ตำนานโจทย์อภิมหา observe 
 
