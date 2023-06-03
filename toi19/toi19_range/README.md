@@ -2,7 +2,7 @@
 
 [🎉 solution.cpp](./toi19_range.cpp)
 
-<img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/84d7f1c6-da5e-47ca-a795-7161b801600e">
+<img width="700" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/84d7f1c6-da5e-47ca-a795-7161b801600e">
 
 ## Observation 1 Segment Tree + Sort
 
