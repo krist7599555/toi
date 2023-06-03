@@ -15,7 +15,7 @@ int main() {
   int n, max_height, max_diff;
   std::cin >> n >> max_height >> max_diff;
   
-  std::vector<int> qs(n + 1, 0);
+  std::vector<int> qs(n + 1, 0); // quick sum
   for (int i = 1, input; i <= n && std::cin >> input; ++i) {
     qs[i] = qs[i-1] + input;
   }
