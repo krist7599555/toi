@@ -2,7 +2,7 @@
 
 [🎉 solution.cpp](./toi19_jewelry.cpp)
 
-<img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
+<img width="700" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
 
 Math
 
