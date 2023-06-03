@@ -9,5 +9,5 @@
 ## Day 2
 
 1. Energy.pdf
-2. Fruit.pdf
-3. Pyramid.pdf
+2. Phitsanulok.pdf
+3. Range.pdf
