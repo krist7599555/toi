@@ -8,19 +8,25 @@ contribution is always wellcome
 
 ### Day 1
 
-- [toi9_merge](./toi19/toi9_merge)
+- [toi9_merge](./toi19/toi9_merge) <img width="878" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/23655709-695a-4a82-8d02-c39f97ccf9ac">
 
-- [toi9_explorer](./toi19/toi9_explorer)
 
-- [toi9_jewelry](./toi19/toi9_jewelry)
+- [toi9_explorer](./toi19/toi9_explorer) <img width="553" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/1c1e7a55-a123-4f21-8a60-cfc0eac008a3">
+
+
+- [toi9_jewelry](./toi19/toi9_jewelry) <img width="1044" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
+
 
 ### Day 2
 
-- [toi9_energy](./toi19/toi9_energy)
+- [toi9_energy](./toi19/toi9_energy) <img width="1097" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/1940644a-8b27-4212-9c61-8190b575be78">
 
-- [toi9_phitsanulok](./toi19/toi9_phitsanulok)
 
-- [toi9_range](./toi19/toi9_range)
+- [toi9_phitsanulok](./toi19/toi9_phitsanulok) <img width="986" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/960f2a15-2f6d-4ee2-9dbc-06889ea5245c">
+
+
+- [toi9_range](./toi19/toi9_range) <img width="996" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/84d7f1c6-da5e-47ca-a795-7161b801600e">
+
 
 ## TOI18
 
