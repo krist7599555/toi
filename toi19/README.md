@@ -2,6 +2,8 @@
 
 [🏠 รวมเฉลยทุกปี](../)
 
+<img width="500" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/e910a63e-0e33-4415-bfe0-28f28c3815d1">
+
 ## Day 1
 
 - [toi19_merge](./toi19_merge)
