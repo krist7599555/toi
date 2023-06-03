@@ -8,7 +8,7 @@
 
 ```haskell
 dp(hi, arr[l..r]) => int # วิธีทั้งหมดที่ใช้แบ่งช่วง arr[l..r] ได้ถึง hi ชั้น
-dp( 0, arr[l..r]) => sum arr[l..r]
+dp( 0, arr[l..r]) => 1   # ชั้นแรกไม่ต้องเปรี่ยบเทียบแบ่งกับใคร ได้ 1 วิธีเสมอ
 dp(hi, arr[l..r]) => sum l..r { |pivot|
   where diff(sum(arr[l..pivot]), sum(arr[pivot..r])) < max_diff
   dp(hi-1, arr[l..pivot]) + dp(hi-1, arr[pivot..r])
