@@ -36,7 +36,8 @@ int main() {
   std::sort(all(compress));
   compress.erase(std::unique(all(compress)), compress.end());
   std::sort(all(inp), [](Interval lhs, Interval rhs) {
-    return std::tie(lhs.l, rhs.r) > std::tie(rhs.l, lhs.r);
+    // เรียงตาม r จากน้อยไปมากถ้า r เท่ากัน ให้เรียงตาม -l จะได้ทำจากข้างในเล็กๆออกไปข้างนอกใหญ่ๆ
+    return std::tie(lhs.r, rhs.l) < std::tie(rhs.r, lhs.l);
   });
 
   // optimize segment tree in size of 2**k https://codeforces.com/blog/entry/18051
@@ -56,7 +57,7 @@ int main() {
     // set answer = max_child + 1 
     ans[it.idx] = max_child + 1;
     // update idx=r = answer
-    int idx = r_idx + n2;
+    int idx = l_idx + n2;
     seg[idx] = std::max(seg[idx], max_child + 1);
     for (; idx > 1; idx /= 2) {
       seg[idx / 2] = std::max(seg[idx], seg[idx ^ 1]);
