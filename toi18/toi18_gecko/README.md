@@ -1,5 +1,7 @@
 # TOI18 gecko
 
+[💎 problem.pdf](./toi18_gecko.pdf)
+
 [🎉 solution.cpp](./toi18_gecko.cpp)
 
 <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/38b4d87c-0304-4d26-90a0-9ddb8706e481">

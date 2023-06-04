@@ -1,5 +1,7 @@
 # TOI19 merge
 
+[💎 problem.pdf](./toi19_merge.pdf)
+
 [🎉 solution.cpp](./toi19_merge.cpp)
 
 <img width="700" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/23655709-695a-4a82-8d02-c39f97ccf9ac">

@@ -1,5 +1,7 @@
 # TOI19 range
 
+[💎 problem.pdf](./toi19_range.pdf)
+
 [🎉 solution.cpp](./toi19_range.cpp)
 
 [🎉 solution_segment_tree.cpp](./toi19_range_segment_tree.cpp)

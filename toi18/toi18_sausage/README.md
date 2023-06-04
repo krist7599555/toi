@@ -1,5 +1,7 @@
 # TOI18 sausage
 
+[💎 problem.pdf](./toi18_sausage.pdf)
+
 [🎉 solution.cpp](./toi18_sausage.cpp)
 
 <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/cee65a0e-a8c1-4cfd-b4aa-e677ef607043">

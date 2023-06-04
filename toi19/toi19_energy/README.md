@@ -1,5 +1,7 @@
 # TOI19 energy
 
+[💎 problem.pdf](./toi19_energy.pdf)
+
 [🎉 solution.cpp](./toi19_energy.cpp)
 
   <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/1940644a-8b27-4212-9c61-8190b575be78">

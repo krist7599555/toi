@@ -1,5 +1,7 @@
 # TOI18 constellation
 
+[💎 problem.pdf](./toi18_constellation.pdf)
+
 [🎉 solution.cpp](./toi18_constellation.cpp)
 
 <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/bc0f9415-1d77-493e-835c-7a4dd7f37add">
