@@ -187,10 +187,4 @@ ${[...o.pdf, ...o.cpp].join("\n")}
     );
     await fs.writeFile(readme, new_md);
   }
-
-  //   # TOI18 gecko
-
-  // [💎 problem.pdf](./toi18_gecko.pdf)
-
-  // [🎉 solution.cpp](./toi18_gecko.cpp)
 }
