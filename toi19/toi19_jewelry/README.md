@@ -1,4 +1,5 @@
 <!-- @codegen_problem begin -->
+
 # TOI19 jewelry - สร้อยอัญมณี (Jewelry Necklace)
 
 [🏠 รวมเฉลย TOI19](../)
@@ -9,15 +10,8 @@
 
 <img width="700" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0" />
 <!-- @codegen_problem end -->
-# TOI19 jewelry
 
-[💎 problem.pdf](./toi19_jewelry.pdf)
-
-[🎉 solution.cpp](./toi19_jewelry.cpp)
-
-<img width="700" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
-
-Math
+**🤢 Math!!!**
 
 ข้อนี้ถ้าสังเกตุคือ ให้หาว่าในช่วง `str[l..r]` มี `'T'` ติดกันมากสุดกี่ตัว
 

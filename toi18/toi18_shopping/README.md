@@ -1,4 +1,5 @@
 <!-- @codegen_problem begin -->
+
 # TOI18 shopping - เชียงใหม่ไน่ทรัพย์ (Shopping)
 
 [🏠 รวมเฉลย TOI18](../)
@@ -9,13 +10,6 @@
 
 <img width="700" src="https://github.com/krist7599555/toi/assets/19445033/cab4ce7c-5d38-4118-9553-ee980695a05c" />
 <!-- @codegen_problem end -->
-# TOI18 shopping
-
-[💎 problem.pdf](./toi18_shopping.pdf)
-
-[🎉 solution.cpp](./toi18_shopping.cpp)
-
-<img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/cab4ce7c-5d38-4118-9553-ee980695a05c">
 
 Quicksum + Binarysearch
 

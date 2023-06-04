@@ -1,4 +1,5 @@
 <!-- @codegen_problem begin -->
+
 # TOI18 mountain - แอ่วม่อน (Mountain)
 
 [🏠 รวมเฉลย TOI18](../)
@@ -9,17 +10,6 @@
 
 <img width="700" src="https://github.com/krist7599555/toi/assets/19445033/2caed7c8-5601-4969-9dea-a54da40ceb11" />
 <!-- @codegen_problem end -->
-<!-- HEADER begin -->
-
-# TOI18 moutain
-
-[💎 problem.pdf](./toi18_moutain.pdf)
-
-[🎉 solution.cpp](./toi18_moutain.cpp)
-
-<img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/2caed7c8-5601-4969-9dea-a54da40ceb11">
-
-<!-- HEADER end -->
 
 Dynamic Programming + Binary Search
 

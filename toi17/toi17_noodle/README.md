@@ -1,4 +1,5 @@
 <!-- @codegen_problem begin -->
+
 # TOI17 noodle - ขนมจีนนคร (Fermented Rice Noodle)
 
 [🏠 รวมเฉลย TOI17](../)
@@ -9,9 +10,6 @@
 
 <img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
 <!-- @codegen_problem end -->
-# TOI17 noodle
-
-[🎉 solution.cpp](./toi17_noodle.cpp)
 
 BinarySearch + K-th Largest Element using Priority Queue
 
