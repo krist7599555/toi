@@ -1,3 +1,14 @@
+<!-- @codegen_problem begin -->
+# TOI18 gecko - จั๊กกิ้ม (Gecko)
+
+[🏠 รวมเฉลย TOI18](../)
+
+[💎 problem.pdf](./toi18_gecko.pdf)
+
+[🎉 solution.cpp](./toi18_gecko.cpp)
+
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/cee65a0e-a8c1-4cfd-b4aa-e677ef607043" />
+<!-- @codegen_problem end -->
 # TOI18 gecko
 
 [💎 problem.pdf](./toi18_gecko.pdf)

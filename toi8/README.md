@@ -7,7 +7,7 @@
 <img width="500" alt="toi8 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI8 Day ?
+## เฉลย TOI8 day ?
 
 - [toi8_electricity](./toi8/toi8_electricity) - ส่งกระแสไฟฟ้า (electricity) [ลองทำ](https://beta.programming.in.th/tasks/toi8_electricity)
 

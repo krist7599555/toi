@@ -11,7 +11,7 @@
 - แข่งขันแบบ online
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI17 Day ?
+## เฉลย TOI17 day ?
 
 - [toi17_1221](./toi17/toi17_1221) - นครมาเก็ต [ลองทำ](https://beta.programming.in.th/tasks/toi17_1221)
 

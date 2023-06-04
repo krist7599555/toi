@@ -1,3 +1,14 @@
+<!-- @codegen_problem begin -->
+# TOI18 mountain - แอ่วม่อน (Mountain)
+
+[🏠 รวมเฉลย TOI18](../)
+
+[💎 problem.pdf](./toi18_mountain.pdf)
+
+[🎉 solution.cpp](./toi18_mountain.cpp)
+
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/2caed7c8-5601-4969-9dea-a54da40ceb11" />
+<!-- @codegen_problem end -->
 <!-- HEADER begin -->
 
 # TOI18 moutain

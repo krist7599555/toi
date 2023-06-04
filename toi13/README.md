@@ -7,7 +7,7 @@
 <img width="500" alt="toi13 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI13 Day ?
+## เฉลย TOI13 day ?
 
 - [toi13_art](./toi13/toi13_art) - ศิลปะโครมาโทกราฟี (Chromatography Art) [ลองทำ](https://beta.programming.in.th/tasks/toi13_art)
 

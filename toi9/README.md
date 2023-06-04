@@ -7,7 +7,7 @@
 <img width="500" alt="toi9 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI9 Day ?
+## เฉลย TOI9 day ?
 
 - [toi9_beehive](./toi9/toi9_beehive) - รวงผึ้ง (Beehive) [ลองทำ](https://beta.programming.in.th/tasks/toi9_beehive)
 

@@ -7,7 +7,7 @@
 <img width="500" alt="toi11 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI11 Day ?
+## เฉลย TOI11 day ?
 
 - [toi11_candle](./toi11/toi11_candle) - จุดเทียนภาวนา (Candle Lighting Prayer) [ลองทำ](https://beta.programming.in.th/tasks/toi11_candle)
 

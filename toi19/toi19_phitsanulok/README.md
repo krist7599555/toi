@@ -1,3 +1,14 @@
+<!-- @codegen_problem begin -->
+# TOI19 phitsanulok - พิด’โลก (Phitsanulok)
+
+[🏠 รวมเฉลย TOI19](../)
+
+[💎 problem.pdf](./toi19_phitsanulok.pdf)
+
+[🎉 solution.cpp](./toi19_phitsanulok.cpp)
+
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/960f2a15-2f6d-4ee2-9dbc-06889ea5245c" />
+<!-- @codegen_problem end -->
 # TOI19 phitsanulok
 
 [💎 problem.pdf](./toi19_phitsanulok.pdf)

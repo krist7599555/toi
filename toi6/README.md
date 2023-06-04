@@ -7,7 +7,7 @@
 <img width="500" alt="toi6 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI6 Day ?
+## เฉลย TOI6 day ?
 
 - [toi6_domino](./toi6/toi6_domino) - ดอมมิโนฉงน (dominoes) [ลองทำ](https://beta.programming.in.th/tasks/toi6_domino)
 

@@ -13,7 +13,7 @@ contribution is always welcome
 มหาวิทยาลัยนเรศวร 22-25 พฤษภาคม พ.ศ. 2566 [website](https://toi19.nu.ac.th)
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI19 Day 1
+### เฉลย TOI19 day 1
 
 - [toi19_merge](./toi19/toi19_merge) - ผสาน (Merge) [ลองทำ](https://otog.cf/)
 
@@ -28,7 +28,7 @@ contribution is always welcome
   <img width="350" alt="toi19_jewelry" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI19 Day 2
+### เฉลย TOI19 day 2
 
 - [toi19_energy](./toi19/toi19_energy) - เติมพลังงาน (Energy) [ลองทำ](https://otog.cf/)
 
@@ -54,7 +54,7 @@ contribution is always welcome
 - ใช้ compiler `g++ -std=C++14 -O2`
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI18 Day 1
+### เฉลย TOI18 day 1
 
 - [toi18_mountain](./toi18/toi18_mountain) - แอ่วม่อน (Mountain) [ลองทำ](https://beta.programming.in.th/tasks/toi18_mountain)
 
@@ -69,7 +69,7 @@ contribution is always welcome
   <img width="350" alt="toi18_constellation" src="https://github.com/krist7599555/toi/assets/19445033/bc0f9415-1d77-493e-835c-7a4dd7f37add">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI18 Day 2
+### เฉลย TOI18 day 2
 
 - [toi18_shopping](./toi18/toi18_shopping) - เชียงใหม่ไน่ทรัพย์ (Shopping) [ลองทำ](https://beta.programming.in.th/tasks/toi18_shopping)
 
@@ -93,7 +93,7 @@ contribution is always welcome
 - แข่งขันแบบ online
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI17 Day ?
+### เฉลย TOI17 day ?
 
 - [toi17_1221](./toi17/toi17_1221) - นครมาเก็ต [ลองทำ](https://beta.programming.in.th/tasks/toi17_1221)
 
@@ -133,7 +133,7 @@ contribution is always welcome
 - ตำนานโจทย์อภิมหา observe
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI16 Day ?
+### เฉลย TOI16 day ?
 
 - [toi16_carte](./toi16/toi16_carte) - ร้านอาหารตามสั่ง (Carte) [ลองทำ](https://beta.programming.in.th/tasks/toi16_carte)
 
@@ -165,7 +165,7 @@ contribution is always welcome
 <img width="500" alt="toi15 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI15 Day ?
+### เฉลย TOI15 day ?
 
 - [toi15_archery](./toi15/toi15_archery) - เกาทัณฑ์ประชันแม่น (Archery) [ลองทำ](https://beta.programming.in.th/tasks/toi15_archery)
 
@@ -197,7 +197,7 @@ contribution is always welcome
 <img width="500" alt="toi14 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI14 Day ?
+### เฉลย TOI14 day ?
 
 - [toi14_blockchain](./toi14/toi14_blockchain) - บล็อกเชน (BLOCKCHAIN) [ลองทำ](https://beta.programming.in.th/tasks/toi14_blockchain)
 
@@ -233,7 +233,7 @@ contribution is always welcome
 <img width="500" alt="toi13 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI13 Day ?
+### เฉลย TOI13 day ?
 
 - [toi13_art](./toi13/toi13_art) - ศิลปะโครมาโทกราฟี (Chromatography Art) [ลองทำ](https://beta.programming.in.th/tasks/toi13_art)
 
@@ -265,7 +265,7 @@ contribution is always welcome
 <img width="500" alt="toi12 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI12 Day ?
+### เฉลย TOI12 day ?
 
 - [toi12_barrier](./toi12/toi12_barrier) - เขื่อนกันคลื่น [ลองทำ](https://beta.programming.in.th/tasks/toi12_barrier)
 
@@ -297,7 +297,7 @@ contribution is always welcome
 <img width="500" alt="toi11 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI11 Day ?
+### เฉลย TOI11 day ?
 
 - [toi11_candle](./toi11/toi11_candle) - จุดเทียนภาวนา (Candle Lighting Prayer) [ลองทำ](https://beta.programming.in.th/tasks/toi11_candle)
 
@@ -331,7 +331,7 @@ contribution is always welcome
 - เป็นครั้งแรกที่เห็นคะแนนจาก testcase จริงระหว่างแข่ง
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI10 Day ?
+### เฉลย TOI10 day ?
 
 - [toi10_catcode](./toi10/toi10_catcode) - รหัสวิฬาร์ (CAT Codes) [ลองทำ](https://beta.programming.in.th/tasks/toi10_catcode)
 
@@ -379,7 +379,7 @@ contribution is always welcome
 <img width="500" alt="toi9 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI9 Day ?
+### เฉลย TOI9 day ?
 
 - [toi9_beehive](./toi9/toi9_beehive) - รวงผึ้ง (Beehive) [ลองทำ](https://beta.programming.in.th/tasks/toi9_beehive)
 
@@ -411,7 +411,7 @@ contribution is always welcome
 <img width="500" alt="toi8 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI8 Day ?
+### เฉลย TOI8 day ?
 
 - [toi8_electricity](./toi8/toi8_electricity) - ส่งกระแสไฟฟ้า (electricity) [ลองทำ](https://beta.programming.in.th/tasks/toi8_electricity)
 
@@ -443,7 +443,7 @@ contribution is always welcome
 <img width="500" alt="toi7 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI7 Day ?
+### เฉลย TOI7 day ?
 
 - [toi7_bomb](./toi7/toi7_bomb) - ระเบิดมหาประลัย (bomb) [ลองทำ](https://beta.programming.in.th/tasks/toi7_bomb)
 
@@ -475,7 +475,7 @@ contribution is always welcome
 <img width="500" alt="toi6 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI6 Day ?
+### เฉลย TOI6 day ?
 
 - [toi6_domino](./toi6/toi6_domino) - ดอมมิโนฉงน (dominoes) [ลองทำ](https://beta.programming.in.th/tasks/toi6_domino)
 
@@ -507,7 +507,7 @@ contribution is always welcome
 <img width="500" alt="toi5 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI5 Day ?
+### เฉลย TOI5 day ?
 
 - [toi5_jump](./toi5/toi5_jump) - กระโดดข้ามเส้น (Jump) [ลองทำ](https://beta.programming.in.th/tasks/toi5_jump)
 
@@ -539,7 +539,7 @@ contribution is always welcome
 <img width="500" alt="toi4 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI4 Day ?
+### เฉลย TOI4 day ?
 
 - [toi4_key](./toi4/toi4_key) - กุญแจคุโรมาตี้ (Cromartie Key) [ลองทำ](https://beta.programming.in.th/tasks/toi4_key)
 
@@ -571,7 +571,7 @@ contribution is always welcome
 <img width="500" alt="toi3 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI3 Day ?
+### เฉลย TOI3 day ?
 
 - [toi3_block](./toi3/toi3_block) - บล็อกเกม (Block Game) [ลองทำ](https://beta.programming.in.th/tasks/toi3_block)
 
@@ -607,7 +607,7 @@ contribution is always welcome
 <img width="500" alt="toi2 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI2 Day ?
+### เฉลย TOI2 day ?
 
 - [toi2_bee](./toi2/toi2_bee) - ผึ้งสายพันธุ์พิเศษ (Bee) [ลองทำ](https://beta.programming.in.th/tasks/toi2_bee)
 
@@ -642,7 +642,7 @@ contribution is always welcome
 - ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-### TOI1 Day ?
+### เฉลย TOI1 day ?
 
 - [toi1_brick](./toi1/toi1_brick) - ก้อนอิฐ [ลองทำ](https://beta.programming.in.th/tasks/toi1_brick)
 

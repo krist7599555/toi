@@ -7,7 +7,7 @@
 <img width="500" alt="toi7 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI7 Day ?
+## เฉลย TOI7 day ?
 
 - [toi7_bomb](./toi7/toi7_bomb) - ระเบิดมหาประลัย (bomb) [ลองทำ](https://beta.programming.in.th/tasks/toi7_bomb)
 

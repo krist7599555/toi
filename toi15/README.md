@@ -7,7 +7,7 @@
 <img width="500" alt="toi15 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI15 Day ?
+## เฉลย TOI15 day ?
 
 - [toi15_archery](./toi15/toi15_archery) - เกาทัณฑ์ประชันแม่น (Archery) [ลองทำ](https://beta.programming.in.th/tasks/toi15_archery)
 

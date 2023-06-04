@@ -7,7 +7,7 @@
 <img width="500" alt="toi4 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI4 Day ?
+## เฉลย TOI4 day ?
 
 - [toi4_key](./toi4/toi4_key) - กุญแจคุโรมาตี้ (Cromartie Key) [ลองทำ](https://beta.programming.in.th/tasks/toi4_key)
 

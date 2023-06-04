@@ -11,7 +11,7 @@
 - ตำนานโจทย์อภิมหา observe
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI16 Day ?
+## เฉลย TOI16 day ?
 
 - [toi16_carte](./toi16/toi16_carte) - ร้านอาหารตามสั่ง (Carte) [ลองทำ](https://beta.programming.in.th/tasks/toi16_carte)
 

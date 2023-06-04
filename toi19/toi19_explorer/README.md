@@ -1,3 +1,14 @@
+<!-- @codegen_problem begin -->
+# TOI19 explorer - นักสํารวจ (Explorer)
+
+[🏠 รวมเฉลย TOI19](../)
+
+[💎 problem.pdf](./toi19_explorer.pdf)
+
+[🎉 solution.cpp](./toi19_explorer.cpp)
+
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/1c1e7a55-a123-4f21-8a60-cfc0eac008a3" />
+<!-- @codegen_problem end -->
 # TOI19 explorer
 
 [💎 problem.pdf](./toi19_explorer.pdf)

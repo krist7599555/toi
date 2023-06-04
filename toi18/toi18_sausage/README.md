@@ -1,3 +1,14 @@
+<!-- @codegen_problem begin -->
+# TOI18 sausage - ไส้อั่วทิพย์ (Sai-ua)
+
+[🏠 รวมเฉลย TOI18](../)
+
+[💎 problem.pdf](./toi18_sausage.pdf)
+
+[🎉 solution.cpp](./toi18_sausage.cpp)
+
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/38b4d87c-0304-4d26-90a0-9ddb8706e481" />
+<!-- @codegen_problem end -->
 # TOI18 sausage
 
 [💎 problem.pdf](./toi18_sausage.pdf)

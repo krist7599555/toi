@@ -7,7 +7,7 @@
 <img width="500" alt="toi5 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI5 Day ?
+## เฉลย TOI5 day ?
 
 - [toi5_jump](./toi5/toi5_jump) - กระโดดข้ามเส้น (Jump) [ลองทำ](https://beta.programming.in.th/tasks/toi5_jump)
 

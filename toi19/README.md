@@ -9,7 +9,7 @@
 มหาวิทยาลัยนเรศวร 22-25 พฤษภาคม พ.ศ. 2566 [website](https://toi19.nu.ac.th)
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI19 Day 1
+## เฉลย TOI19 day 1
 
 - [toi19_merge](./toi19/toi19_merge) - ผสาน (Merge) [ลองทำ](https://otog.cf/)
 
@@ -24,7 +24,7 @@
   <img width="350" alt="toi19_jewelry" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI19 Day 2
+## เฉลย TOI19 day 2
 
 - [toi19_energy](./toi19/toi19_energy) - เติมพลังงาน (Energy) [ลองทำ](https://otog.cf/)
 

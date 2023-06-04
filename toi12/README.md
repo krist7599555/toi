@@ -7,7 +7,7 @@
 <img width="500" alt="toi12 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI12 Day ?
+## เฉลย TOI12 day ?
 
 - [toi12_barrier](./toi12/toi12_barrier) - เขื่อนกันคลื่น [ลองทำ](https://beta.programming.in.th/tasks/toi12_barrier)
 

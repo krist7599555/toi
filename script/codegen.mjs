@@ -12,6 +12,9 @@ import { arr_filter } from "@krist7599555/lodosh";
 import { is_match } from "@krist7599555/lodosh";
 import { group_by_with } from "@krist7599555/lodosh";
 import { codegen_replace_block } from "./codegen_utils.mjs";
+import { glob } from "glob";
+import { find_match } from "@krist7599555/lodosh";
+import { arr_filter_map } from "@krist7599555/lodosh";
 const root_dir = new URL("../", import.meta.url);
 
 const tasks = await async_pipe(
@@ -77,7 +80,7 @@ ${toi.description || ""}
 
 ${toi.tasks
   .map(
-    ([day, tasks]) => `${WARN}\n${base}# ${toi.year.toUpperCase()} Day ${
+    ([day, tasks]) => `${WARN}\n${base}# เฉลย ${toi.year.toUpperCase()} day ${
       day > 0 ? day : "?"
     }
 
@@ -130,4 +133,63 @@ ${tasks
       (str) => fs.writeFile(md_path, str)
     );
   }
+
+  // toixx/toixx_taskname/README.md
+  for (const task of tasks) {
+    const folder = new URL(`./${task.year}/${task.problem_id}`, root_dir);
+    // prettier-ignore
+    const readme = new URL(`./${task.year}/${task.problem_id}/README.md`, root_dir);
+    await fs.access(folder).catch(() => fs.mkdir(folder));
+    // prettier-ignore
+    await fs.access(readme).catch(() => fs.writeFile(readme, "<!-- @codegen_problem begin -->\n<!-- @codegen_problem end -->\n"));
+    {
+      const md = await fs.readFile(readme, "utf-8");
+      // prettier-ignore
+      if (!md.includes("@codegen_problem")) {
+        await fs.writeFile(readme, "<!-- @codegen_problem begin -->\n<!-- @codegen_problem end -->\n" + md);
+      }
+    }
+
+    const files = await async_pipe(
+      glob("*.{cpp,pdf}", {
+        cwd: folder,
+      }),
+      arr_map((filename) => {
+        return {
+          ext: path.extname(filename),
+          basename: path.basename(filename),
+        };
+      })
+    );
+
+    // prettier-ignore
+    const o = {
+      pdf: arr_filter_map(files, (it) => is_match(it, { ext: ".pdf" }) ? it.basename : null).map(f => `[💎 ${f.replace(task.problem_id, 'problem')}](./${f})\n`),
+      cpp: arr_filter_map(files, (it) => is_match(it, { ext: ".cpp" }) ? it.basename : null).map(f => `[🎉 ${f.replace(task.problem_id, 'solution')}](./${f})\n`),
+    };
+    console.log(o);
+
+    const md = await fs.readFile(readme, "utf-8");
+    const new_md = codegen_replace_block(
+      md,
+      "@codegen_problem",
+      `# ${task.year.toUpperCase()} ${task.problem_id.split("_")[1]} - ${
+        task.problem_title
+      }
+
+[🏠 รวมเฉลย ${task.year.toUpperCase()}](../)
+
+${[...o.pdf, ...o.cpp].join("\n")}
+
+<img width="700" src="${task.image || NO_IMAGE}" />
+`.replace(/\n\n+/g, "\n\n")
+    );
+    await fs.writeFile(readme, new_md);
+  }
+
+  //   # TOI18 gecko
+
+  // [💎 problem.pdf](./toi18_gecko.pdf)
+
+  // [🎉 solution.cpp](./toi18_gecko.cpp)
 }

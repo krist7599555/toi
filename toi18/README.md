@@ -13,7 +13,7 @@
 - ใช้ compiler `g++ -std=C++14 -O2`
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI18 Day 1
+## เฉลย TOI18 day 1
 
 - [toi18_mountain](./toi18/toi18_mountain) - แอ่วม่อน (Mountain) [ลองทำ](https://beta.programming.in.th/tasks/toi18_mountain)
 
@@ -28,7 +28,7 @@
   <img width="350" alt="toi18_constellation" src="https://github.com/krist7599555/toi/assets/19445033/bc0f9415-1d77-493e-835c-7a4dd7f37add">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI18 Day 2
+## เฉลย TOI18 day 2
 
 - [toi18_shopping](./toi18/toi18_shopping) - เชียงใหม่ไน่ทรัพย์ (Shopping) [ลองทำ](https://beta.programming.in.th/tasks/toi18_shopping)
 

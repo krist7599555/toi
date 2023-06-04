@@ -10,7 +10,7 @@
 - ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI1 Day ?
+## เฉลย TOI1 day ?
 
 - [toi1_brick](./toi1/toi1_brick) - ก้อนอิฐ [ลองทำ](https://beta.programming.in.th/tasks/toi1_brick)
 

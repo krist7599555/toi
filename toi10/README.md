@@ -9,7 +9,7 @@
 - เป็นครั้งแรกที่เห็นคะแนนจาก testcase จริงระหว่างแข่ง
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
-## TOI10 Day ?
+## เฉลย TOI10 day ?
 
 - [toi10_catcode](./toi10/toi10_catcode) - รหัสวิฬาร์ (CAT Codes) [ลองทำ](https://beta.programming.in.th/tasks/toi10_catcode)
 
