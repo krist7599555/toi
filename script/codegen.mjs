@@ -44,9 +44,9 @@ const tois = await async_pipe(
     const year = `toi${it.order}`;
     return {
       year,
-      logo: `${it.logo}` || null,
+      logo: `${it.logo || ""}` || null,
       order: +it.order,
-      description: `${it.description}` || null,
+      description: `${it.description || ""}` || null,
       tasks: pipe(
         tasks,
         arr_filter(is_match({ year })),
@@ -73,7 +73,7 @@ ${base} ${toi.year.toUpperCase()}
 
 <img width="500" alt="${toi.year} logo" src="${toi.logo || NO_IMAGE}">
 
-${toi.description ?? ""}
+${toi.description || ""}
 
 ${toi.tasks
   .map(
@@ -94,18 +94,40 @@ ${tasks
   .trim()}`
   )
   .join("\n\n")
-  .trim()}`;
+  .trim()}`.replace(/\n\n+/gm, "\n\n");
 }
 
-const tois_str = pipe(
-  tois,
-  arr_map((toi) => md_single_toi(toi, "##")),
-  (arr) => arr.join("\n\n").trim().replace(/\n\n+/gm, "\n\n")
-);
+{
+  // /README.md
+  const tois_str = pipe(
+    tois,
+    arr_map((toi) => md_single_toi(toi, "##")),
+    (arr) => arr.join("\n\n").trim().replace(/\n\n+/gm, "\n\n")
+  );
+  await async_pipe(
+    fs.readFile(new URL("./README.md", root_dir), "utf-8"),
+    (str) => codegen_replace_block(str, "@codegen_tois", tois_str),
+    (str) => fs.writeFile(new URL("./README.md", root_dir), str)
+  );
 
-const root_readme = await async_pipe(
-  fs.readFile(new URL("./README.md", root_dir), "utf-8"),
-  (str) => codegen_replace_block(str, "@codegen_tois", tois_str),
-  (str) => fs.writeFile(new URL("./README.md", root_dir), str)
-);
-// console.log(tois_str);
+  // /toixx/README.md
+  for (const toi of tois) {
+    const md_path = new URL(`./${toi.year}/README.md`, root_dir);
+    await async_pipe(
+      fs.readFile(md_path, "utf-8"),
+      (str) =>
+        codegen_replace_block(
+          str,
+          "@codegen_toi",
+          pipe(md_single_toi(toi, "#"), (str) => {
+            const lines = str.split("\n");
+            const head_idx = lines.findIndex((it) => it.startsWith("# "));
+            console.log({ head_idx, lines });
+            lines.splice(head_idx + 1, 0, "", "[🏠 รวมเฉลยทุกปี](../)");
+            return lines.join("\n");
+          })
+        ),
+      (str) => fs.writeFile(md_path, str)
+    );
+  }
+}

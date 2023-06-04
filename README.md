@@ -164,8 +164,6 @@ contribution is always welcome
 
 <img width="500" alt="toi15 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-undefined
-
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI15 Day ?
 
@@ -196,9 +194,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI14
 
-<img width="500" alt="toi14 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi14 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI14 Day ?
@@ -234,9 +230,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI13
 
-<img width="500" alt="toi13 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi13 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI13 Day ?
@@ -268,9 +262,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI12
 
-<img width="500" alt="toi12 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi12 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI12 Day ?
@@ -302,9 +294,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI11
 
-<img width="500" alt="toi11 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi11 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI11 Day ?
@@ -336,7 +326,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI10
 
-<img width="500" alt="toi10 logo" src="undefined">
+<img width="500" alt="toi10 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 - เป็นครั้งแรกที่เห็นคะแนนจาก testcase จริงระหว่างแข่ง
 
@@ -386,9 +376,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI9
 
-<img width="500" alt="toi9 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi9 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI9 Day ?
@@ -420,9 +408,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI8
 
-<img width="500" alt="toi8 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi8 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI8 Day ?
@@ -454,9 +440,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI7
 
-<img width="500" alt="toi7 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi7 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI7 Day ?
@@ -488,9 +472,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI6
 
-<img width="500" alt="toi6 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi6 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI6 Day ?
@@ -522,9 +504,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI5
 
-<img width="500" alt="toi5 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi5 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI5 Day ?
@@ -556,9 +536,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI4
 
-<img width="500" alt="toi4 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi4 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI4 Day ?
@@ -590,9 +568,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI3
 
-<img width="500" alt="toi3 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi3 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI3 Day ?
@@ -628,9 +604,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI2
 
-<img width="500" alt="toi2 logo" src="undefined">
-
-undefined
+<img width="500" alt="toi2 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### TOI2 Day ?
@@ -662,7 +636,7 @@ undefined
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## TOI1
 
-<img width="500" alt="toi1 logo" src="undefined">
+<img width="500" alt="toi1 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 - รับแค่ภาษา turbo c มีข้อจำกัดด้านการประกาศ array มากมาย
 - ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
