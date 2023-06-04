@@ -42,9 +42,8 @@ Segment Tree _(ของโคตรขี้โกง ใครเขียน�
 ![image](https://github.com/krist7599555/toi/assets/19445033/1529fa08-a95d-4db3-bd09-42d68682921c)
 
 > หรือ fenwick tree ที่เอียงกราฟ 45องศา ก็ได้ แต่มันจะดูยากหน่อยๆ
-> 
+>
 > <img width="400" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/4183e9ca-5d86-4a2f-a8e8-6c860fef92dc">
-
 
 ### Observation 1 Segment Tree + Sort
 

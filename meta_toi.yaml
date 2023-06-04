@@ -39,18 +39,21 @@ toi16:
   logo: https://github.com/krist7599555/toi/assets/19445033/2f27ed04-9833-45fe-bd1f-44980577c476
   description: |
     มหาวิทยาลัยขอนแก่น 28 พฤศจิกายน - 1 ธันวาคม พ.ศ. 2563 [facebook](https://www.facebook.com/toi2020.kku)
+
     - ตำนานโจทย์อภิมหา observe
 toi17:
   order: 17
   logo: https://github.com/krist7599555/toi/assets/19445033/6db4d777-784c-4e9f-a3af-7a7a14ee2d0e
   description: |
     มหาวิทยาลัยวลัยลักษณ์ 9-12 ธันวาคม พ.ศ. 2564 [facebook](https://www.facebook.com/100064071461604)
+
     - แข่งขันแบบ online
 toi18:
   order: 18
   logo: https://github.com/krist7599555/toi/assets/19445033/63d74d86-33a1-4be2-9388-5d5a0cc912de
   description: |
     มหาวิทยาลัยเชียงใหม่ 1-4 มิถุนายน พ.ศ. 2565 [website](https://toi18.science.cmu.ac.th)
+
     - นับ score เป็นแบบมัดเคส โดยต้องถูกทุกเคสในมัดถึงจะได้คะแนน
     - คะแนนจะไม่มีลดลง เมื่อมัดไหนเคยผ่านแล้วก็ถือว่าได้คะแนนแล้วไม่ต้องแก้อีก
     - ใช้ compiler `g++ -std=C++14 -O2`

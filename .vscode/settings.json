@@ -6,5 +6,10 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true
+  },
+  "markdownlint.config": {
+    "default": true,
+    "no-inline-html": { "allowed_elements": ["img"] },
+    "ul-indent": { "indent": 2 }
   }
 }
