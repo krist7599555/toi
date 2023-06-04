@@ -170,6 +170,19 @@ ${tasks
     };
     console.log(o);
 
+    const problem = new URL(
+      `./${task.year}/${task.problem_id}/${task.problem_id}.pdf`,
+      root_dir
+    );
+    await fs.access(problem).catch(async (err) => {
+      console.log("loading pdf");
+      const res = await fetch(
+        `https://beta-programming-in-th.s3-ap-southeast-1.amazonaws.com/statements/${task.problem_id}.pdf`
+      );
+      const buf = await res.arrayBuffer();
+      await fs.writeFile(problem, Buffer.from(buf));
+    });
+
     const md = await fs.readFile(readme, "utf-8");
     const new_md = codegen_replace_block(
       md,
