@@ -1,87 +1,47 @@
+import { arr_filter_map, arr_map, is_match, pipe } from "@krist7599555/lodosh";
+import { glob } from "glob";
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
-import { pipe } from "@krist7599555/lodosh";
-import { arr_map } from "@krist7599555/lodosh";
 import { async_pipe } from "ts-async-pipe";
-import * as csv from "csv/sync";
-import * as yaml from "yaml";
-import { sort_by } from "@krist7599555/lodosh";
-import { group_by } from "@krist7599555/lodosh";
-import { record_values } from "@krist7599555/lodosh";
-import { arr_filter } from "@krist7599555/lodosh";
-import { is_match } from "@krist7599555/lodosh";
-import { group_by_with } from "@krist7599555/lodosh";
-import { codegen_replace_block } from "./codegen_utils.mjs";
-import { glob } from "glob";
-import { find_match } from "@krist7599555/lodosh";
-import { arr_filter_map } from "@krist7599555/lodosh";
+import {
+  codegen_override_block,
+  codegen_replace_block_string,
+  string_insertline_after,
+} from "./codegen_utils.mjs";
+import * as TOI from "./retrieve_toi.mjs";
+
 const root_dir = new URL("../", import.meta.url);
 
-const tasks = await async_pipe(
-  fs.readFile(new URL("./meta_problem.csv", root_dir)),
-  (buf) => csv.parse(buf, { columns: true }),
-  sort_by((it) => [
-    ["desc", +it.year.replace("toi", "")],
-    ["asc", it.day],
-    ["asc", "it.task"],
-  ]),
-  arr_map((it) => ({
-    year: `${it.year}`,
-    day: +it.day,
-    problem_id: `${it.problem_id}`,
-    problem_title: `${it.problem_title}`,
-    image: `${it.image}` || null,
-    problem_link:
-      it.year == "toi19"
-        ? "https://otog.cf/"
-        : `https://beta.programming.in.th/tasks/${it.problem_id}`,
-  }))
-);
+// INFORMATION
+const problems = await TOI.retrieve_meta_toi_problems();
+const tois = await TOI.retrieve_meta_toi_competitions();
 
-const tois = await async_pipe(
-  fs.readFile(new URL("./meta_toi.yaml", root_dir), "utf-8"),
-  (buf) => yaml.parse(buf),
-  record_values,
-  sort_by((it) => [["desc", it.order]]),
-  arr_map((it) => {
-    const year = `toi${it.order}`;
-    return {
-      year,
-      logo: `${it.logo || ""}` || null,
-      order: +it.order,
-      description: `${it.description || ""}` || null,
-      tasks: pipe(
-        tasks,
-        arr_filter(is_match({ year })),
-        group_by((it) => it.day)
-      ),
-    };
-  })
-);
-
-const WARN =
+const MD_WARN_NO_EDIT =
   "<!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->";
-const NO_IMAGE =
+const URL_NO_IMAGE =
   "https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85";
 
 /**
- *
+ * Create Toi Markdown
  * @param {typeof tois[number]} toi
  * @param {'#' | '##'} base
  * @param {'./' | '../' | '../../'} rel_to_root
  * @returns string
  */
-function md_single_toi(toi, base, rel_to_root) {
-  return `${WARN}
+function toi_to_markdown(toi, base, rel_to_root) {
+  return `${MD_WARN_NO_EDIT}
 ${base} [${toi.year.toUpperCase()}](${rel_to_root}${toi.year})
 
-<img width="500" alt="${toi.year} logo" src="${toi.logo || NO_IMAGE}">
+<img width="500" alt="${toi.year} logo" src="${toi.logo || URL_NO_IMAGE}">
 
 ${toi.description || ""}
 
 ${toi.tasks
   .map(
-    ([day, tasks]) => `${WARN}\n${base}# เฉลย ${toi.year.toUpperCase()} day ${
+    ([
+      day,
+      tasks,
+    ]) => `${MD_WARN_NO_EDIT}\n${base}# เฉลย ${toi.year.toUpperCase()} day ${
       day > 0 ? day : "?"
     }
 
@@ -92,7 +52,7 @@ ${tasks
         t.problem_title
       } [ลองทำ](${t.problem_link})\n\n  <img width="350" alt="${
         t.problem_id
-      }" src="${t.image || NO_IMAGE}">`
+      }" src="${t.image || URL_NO_IMAGE}">`
   )
   .join("\n\n")
   .trim()}`
@@ -101,42 +61,44 @@ ${tasks
   .trim()}`.replace(/\n\n+/gm, "\n\n");
 }
 
-{
+// SIDE EFFECT
+
+async function codegen_root_readme() {
   // /README.md
   const tois_str = pipe(
     tois,
-    arr_map((toi) => md_single_toi(toi, "##", "./")),
+    arr_map((toi) => toi_to_markdown(toi, "##", "./")),
     (arr) => arr.join("\n\n").trim().replace(/\n\n+/gm, "\n\n")
   );
   await async_pipe(
     fs.readFile(new URL("./README.md", root_dir), "utf-8"),
-    (str) => codegen_replace_block(str, "@codegen_tois", tois_str),
+    (str) => codegen_replace_block_string(str, "@codegen_tois", tois_str),
     (str) => fs.writeFile(new URL("./README.md", root_dir), str)
   );
+}
 
+async function codegen_competitions_readme() {
   // /toixx/README.md
   for (const toi of tois) {
-    const md_path = new URL(`./${toi.year}/README.md`, root_dir);
-    await async_pipe(
-      fs.readFile(md_path, "utf-8"),
-      (str) =>
-        codegen_replace_block(
-          str,
-          "@codegen_toi",
-          pipe(md_single_toi(toi, "#", "../"), (str) => {
-            const lines = str.split("\n");
-            const head_idx = lines.findIndex((it) => it.startsWith("# "));
-            console.log({ head_idx, lines });
-            lines.splice(head_idx + 1, 0, "", "[🏠 รวมเฉลยทุกปี](../)");
-            return lines.join("\n");
-          })
-        ),
-      (str) => fs.writeFile(md_path, str)
-    );
+    await codegen_override_block({
+      file: new URL(`./${toi.year}/README.md`, root_dir),
+      codegen_block: "@codegen_toi",
+      replacer: () => {
+        const md = toi_to_markdown(toi, "#", "../");
+        const md_add_nav = string_insertline_after(
+          md,
+          (line) => line.startsWith("# "),
+          ["", "[🏠 รวมเฉลยทุกปี](../)"]
+        );
+        return md_add_nav;
+      },
+    });
   }
+}
 
+async function codegen_problems_readme() {
   // toixx/toixx_taskname/README.md
-  for (const task of tasks) {
+  for (const task of problems) {
     const folder = new URL(`./${task.year}/${task.problem_id}`, root_dir);
     // prettier-ignore
     const readme = new URL(`./${task.year}/${task.problem_id}/README.md`, root_dir);
@@ -184,7 +146,7 @@ ${tasks
     });
 
     const md = await fs.readFile(readme, "utf-8");
-    const new_md = codegen_replace_block(
+    const new_md = codegen_replace_block_string(
       md,
       "@codegen_problem",
       `# ${task.year.toUpperCase()} ${task.problem_id.split("_")[1]} - ${
@@ -195,9 +157,17 @@ ${tasks
 
 ${[...o.pdf, ...o.cpp].join("\n")}
 
-<img width="700" src="${task.image || NO_IMAGE}" />
+<img width="700" src="${task.image || URL_NO_IMAGE}" />
 `.replace(/\n\n+/g, "\n\n")
     );
     await fs.writeFile(readme, new_md);
   }
 }
+
+// MAIN FUNCTION
+async function codegen_all() {
+  await codegen_root_readme();
+  await codegen_competitions_readme();
+  await codegen_problems_readme();
+}
+codegen_all();
