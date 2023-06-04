@@ -1,7 +1,3 @@
-/**
-segment tree + compress index + sort interval
-ปล. จะเอียงแกน 45องศาแล้วทำ fenwick tree ก็ได้
-*/
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -16,56 +12,38 @@ struct Interval {
 };
 
 int main() {
-  std::ios_base::sync_with_stdio(false);
-  std::cin.tie(nullptr);
-
   int n;
   std::cin >> n;
   std::vector<Interval> inp(n);
   std::vector<int> ans(n);
-  std::vector<int> compress;
-
-  for (int idx = 0, l, r; idx != n && std::cin >> l >> r; ++idx) {
-    assert(l <= r);
-    inp[idx] = Interval { l, r, idx };
-    compress.push_back(l);
-    compress.push_back(r);
+  for (int i = 0; i != n; ++i) {
+    std::cin >> inp[i].l >> inp[i].r;
+    inp[i].idx = i;
   }
-
-  // compress value 1e9 to unique index
-  std::sort(all(compress));
-  compress.erase(std::unique(all(compress)), compress.end());
-  std::sort(all(inp), [](Interval lhs, Interval rhs) {
-    // เรียงตาม r จากน้อยไปมากถ้า r เท่ากัน ให้เรียงตาม -l จะได้ทำจากข้างในเล็กๆออกไปข้างนอกใหญ่ๆ
-    return std::tie(lhs.r, rhs.l) < std::tie(rhs.r, lhs.l);
+  std::sort(all(inp), [](Interval lhs,  Interval rhs) {
+    // sort by r
+    return std::make_tuple(lhs.r, -lhs.l) < std::make_tuple(rhs.r, -rhs.l);
   });
-
-  // optimize segment tree in size of 2**k https://codeforces.com/blog/entry/18051
-  int n2 = 1 << int(std::ceil(std::log2(compress.size())));
-  std::vector<int> seg(2 * n2, 0);
-
-  for (Interval it : inp) {
-    const int l_idx = std::lower_bound(all(compress), it.l) - compress.begin();
-    const int r_idx = std::lower_bound(all(compress), it.r) - compress.begin();
-    assert(0 <= l_idx && l_idx <= r_idx && r_idx < compress.size());
-    // query range=[l, r]
-    int max_child = 0;
-    for (int l = l_idx + n2, r = r_idx + n2 + 1; l != r; l /= 2, r /= 2) {
-      if (l&1) max_child = std::max(max_child, seg[l++]);
-      if (r&1) max_child = std::max(max_child, seg[--r]);
+  std::vector<int> lis; // longest increasing subsequence
+  for (Interval& intv : inp) {
+    int val = intv.l;
+    auto it = std::upper_bound(all(lis), val, std::greater<int>());
+    if (it == lis.end()) {
+      lis.push_back(val);
+      ans[intv.idx] = lis.size();
+    } else {
+      *it = val;
+      ans[intv.idx] = std::distance(lis.begin(), it) + 1;
     }
-    // set answer = max_child + 1 
-    ans[it.idx] = max_child + 1;
-    // update idx=r = answer
-    int idx = l_idx + n2;
-    seg[idx] = std::max(seg[idx], max_child + 1);
-    for (; idx > 1; idx /= 2) {
-      seg[idx / 2] = std::max(seg[idx], seg[idx ^ 1]);
-    }
+
+    // ลองปริ้นได้
+    // std::cerr << "idx=[" << intv.l  << "," << intv.r  << "]; lis = ";
+    // for (int v : lis) std::cerr << v << ' ';
+    // std::cerr << '\n';
   }
 
   // print
-  std::cout << *std::max_element(all(ans)) << '\n';
+  std::cout << lis.size() << '\n';
   for (int i = 0; i != ans.size(); ++i) {
     std::cout << ans[i] << (i + 1 != n ? ' ' : '\n');
   }
