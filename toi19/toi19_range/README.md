@@ -37,10 +37,12 @@ idx=[9,13];  lis = 11 9* 1; ตอบ 2
 ## Solution 2 Segment tree
 
 Segment Tree _(ของโคตรขี้โกง ใครเขียนเป็นจะได้เปรียบ)_
-
-หรือ fenwick tree ที่เอียงกราฟ 45องศา ก็ได้
-
 ![image](https://github.com/krist7599555/toi/assets/19445033/1529fa08-a95d-4db3-bd09-42d68682921c)
+
+> หรือ fenwick tree ที่เอียงกราฟ 45องศา ก็ได้ แต่มันจะดูยากหน่อยๆ
+> 
+> <img width="400" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/4183e9ca-5d86-4a2f-a8e8-6c860fef92dc">
+
 
 ### Observation 1 Segment Tree + Sort
 
