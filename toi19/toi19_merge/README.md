@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI19 merge - ผสาน (Merge)
 
 [🏠 รวมเฉลย TOI19](../)

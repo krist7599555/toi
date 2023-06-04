@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI18 garden - สวนพฤกษศาสตร์ (Botanical Garden)
 
 [🏠 รวมเฉลย TOI18](../)

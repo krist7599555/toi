@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI17 sequel - กำแพงนคร: ภาคต่อ (The Wall: The Sequel)
 
 [🏠 รวมเฉลย TOI17](../)

@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI18 constellation - ดารากร (Constellation)
 
 [🏠 รวมเฉลย TOI18](../)

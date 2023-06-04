@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI17 noodle - ขนมจีนนคร (Fermented Rice Noodle)
 
 [🏠 รวมเฉลย TOI17](../)

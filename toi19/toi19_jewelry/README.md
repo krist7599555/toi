@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI19 jewelry - สร้อยอัญมณี (Jewelry Necklace)
 
 [🏠 รวมเฉลย TOI19](../)

@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI18 mountain - แอ่วม่อน (Mountain)
 
 [🏠 รวมเฉลย TOI18](../)

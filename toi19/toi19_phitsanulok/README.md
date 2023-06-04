@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI19 phitsanulok - พิด’โลก (Phitsanulok)
 
 [🏠 รวมเฉลย TOI19](../)

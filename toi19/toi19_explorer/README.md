@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI19 explorer - นักสํารวจ (Explorer)
 
 [🏠 รวมเฉลย TOI19](../)
