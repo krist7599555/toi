@@ -14,7 +14,7 @@ sort ตาม R แล้ว ใช้ค่าตาม -L (จะได้ท
 
 ตัวอย่างตามภาพข้างขนจะได้เป็น
 
-![Xnip2566-06-04_07-26-45](https://github.com/krist7599555/toi/assets/19445033/37b36bdc-4f76-4f64-80c7-c96e00af74e9)
+![LIS solution](https://github.com/krist7599555/toi/assets/19445033/37b36bdc-4f76-4f64-80c7-c96e00af74e9)
 
 ```python
 idx=[2,6];   lis = 2*;      ตอบ 1
@@ -32,11 +32,15 @@ idx=[9,13];  lis = 11 9* 1; ตอบ 2
 
 จากแนวคิดนี้จะสอดคล้องกับการทำ longest increasing subsequence แบบ binary search ที่เก็บเฉพาะภูเขาที่ดีที่สุดไปเรื่อยๆ โดยทิ้งค่าเก่าไปเลยถ้ามีค่าใหม่ที่มีค่าเท่ากัน แต่เจอได้ง่ายกว่า
 
+---
+
 ## Solution 2 Segment tree
 
 Segment Tree _(ของโคตรขี้โกง ใครเขียนเป็นจะได้เปรียบ)_
 
 หรือ fenwick tree ที่เอียงกราฟ 45องศา ก็ได้
+
+![image](https://github.com/krist7599555/toi/assets/19445033/1529fa08-a95d-4db3-bd09-42d68682921c)
 
 ### Observation 1 Segment Tree + Sort
 
