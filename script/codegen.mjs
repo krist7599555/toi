@@ -63,16 +63,17 @@ const WARN =
   "<!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->";
 const NO_IMAGE =
   "https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85";
-const BASE_URL = "/toi";
+
 /**
  *
  * @param {typeof tois[number]} toi
  * @param {'#' | '##'} base
+ * @param {'./' | '../' | '../../'} rel_to_root
  * @returns string
  */
-function md_single_toi(toi, base) {
+function md_single_toi(toi, base, rel_to_root) {
   return `${WARN}
-${base} [${toi.year.toUpperCase()}](${BASE_URL}/${toi.year})
+${base} [${toi.year.toUpperCase()}](${rel_to_root}${toi.year})
 
 <img width="500" alt="${toi.year} logo" src="${toi.logo || NO_IMAGE}">
 
@@ -87,7 +88,7 @@ ${toi.tasks
 ${tasks
   .map(
     (t) =>
-      `- [${t.problem_id}](${BASE_URL}/${toi.year}/${t.problem_id}) - ${
+      `- [${t.problem_id}](${rel_to_root}${toi.year}/${t.problem_id}) - ${
         t.problem_title
       } [ลองทำ](${t.problem_link})\n\n  <img width="350" alt="${
         t.problem_id
@@ -104,7 +105,7 @@ ${tasks
   // /README.md
   const tois_str = pipe(
     tois,
-    arr_map((toi) => md_single_toi(toi, "##")),
+    arr_map((toi) => md_single_toi(toi, "##", "./")),
     (arr) => arr.join("\n\n").trim().replace(/\n\n+/gm, "\n\n")
   );
   await async_pipe(
@@ -122,7 +123,7 @@ ${tasks
         codegen_replace_block(
           str,
           "@codegen_toi",
-          pipe(md_single_toi(toi, "#"), (str) => {
+          pipe(md_single_toi(toi, "#", "../"), (str) => {
             const lines = str.split("\n");
             const head_idx = lines.findIndex((it) => it.startsWith("# "));
             console.log({ head_idx, lines });
