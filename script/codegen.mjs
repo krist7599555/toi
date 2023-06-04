@@ -63,7 +63,7 @@ const WARN =
   "<!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->";
 const NO_IMAGE =
   "https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85";
-
+const BASE_URL = "/toi";
 /**
  *
  * @param {typeof tois[number]} toi
@@ -72,7 +72,7 @@ const NO_IMAGE =
  */
 function md_single_toi(toi, base) {
   return `${WARN}
-${base} ${toi.year.toUpperCase()}
+${base} [${toi.year.toUpperCase()}](${BASE_URL}/${toi.year})
 
 <img width="500" alt="${toi.year} logo" src="${toi.logo || NO_IMAGE}">
 
@@ -87,7 +87,7 @@ ${toi.tasks
 ${tasks
   .map(
     (t) =>
-      `- [${t.problem_id}](./${toi.year}/${t.problem_id}) - ${
+      `- [${t.problem_id}](${BASE_URL}/${toi.year}/${t.problem_id}) - ${
         t.problem_title
       } [ลองทำ](${t.problem_link})\n\n  <img width="350" alt="${
         t.problem_id
