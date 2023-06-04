@@ -1,0 +1,61 @@
+toi1:
+  order: 1
+  description: |
+    - รับแค่ภาษา turbo c มีข้อจำกัดด้านการประกาศ array มากมาย
+    - ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
+toi2:
+  order: 2
+toi3:
+  order: 3
+toi4:
+  order: 4
+toi5:
+  order: 5
+toi6:
+  order: 6
+toi7:
+  order: 7
+toi8:
+  order: 8
+toi9:
+  order: 9
+toi10:
+  order: 10
+  description: |
+    - เป็นครั้งแรกที่เห็นคะแนนจาก testcase จริงระหว่างแข่ง
+toi11:
+  order: 11
+toi12:
+  order: 12
+toi13:
+  order: 13
+toi14:
+  order: 14
+toi15:
+  order: 15
+  logo: https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85
+toi16:
+  order: 16
+  logo: https://github.com/krist7599555/toi/assets/19445033/2f27ed04-9833-45fe-bd1f-44980577c476
+  description: |
+    มหาวิทยาลัยขอนแก่น 28 พฤศจิกายน - 1 ธันวาคม พ.ศ. 2563 [facebook](https://www.facebook.com/toi2020.kku)
+    - ตำนานโจทย์อภิมหา observe
+toi17:
+  order: 17
+  logo: https://github.com/krist7599555/toi/assets/19445033/6db4d777-784c-4e9f-a3af-7a7a14ee2d0e
+  description: |
+    มหาวิทยาลัยวลัยลักษณ์ 9-12 ธันวาคม พ.ศ. 2564 [facebook](https://www.facebook.com/100064071461604)
+    - แข่งขันแบบ online
+toi18:
+  order: 18
+  logo: https://github.com/krist7599555/toi/assets/19445033/63d74d86-33a1-4be2-9388-5d5a0cc912de
+  description: |
+    มหาวิทยาลัยเชียงใหม่ 1-4 มิถุนายน พ.ศ. 2565 [website](https://toi18.science.cmu.ac.th)
+    - นับ score เป็นแบบมัดเคส โดยต้องถูกทุกเคสในมัดถึงจะได้คะแนน
+    - คะแนนจะไม่มีลดลง เมื่อมัดไหนเคยผ่านแล้วก็ถือว่าได้คะแนนแล้วไม่ต้องแก้อีก
+    - ใช้ compiler `g++ -std=C++14 -O2`
+toi19:
+  order: 19
+  logo: https://github.com/krist7599555/toi/assets/19445033/e910a63e-0e33-4415-bfe0-28f28c3815d1
+  description: |
+    มหาวิทยาลัยนเรศวร 22-25 พฤษภาคม พ.ศ. 2566 [website](https://toi19.nu.ac.th)
