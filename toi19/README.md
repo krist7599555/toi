@@ -1,3 +1,5 @@
+<!-- @codegen_toi begin -->
+
 # เฉลย TOI19
 
 [🏠 รวมเฉลยทุกปี](../)
@@ -31,3 +33,4 @@
 - [toi19_range](./toi19_range)
 
   <img width="350" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/84d7f1c6-da5e-47ca-a795-7161b801600e">
+<!-- @codegen_toi end -->
