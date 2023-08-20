@@ -37,10 +37,7 @@ export async function retrieve_meta_toi_problems() {
       problem_id: `${it.problem_id}`,
       problem_title: `${it.problem_title}`,
       image: `${it.image}` || null,
-      problem_link:
-        it.year == "toi19"
-          ? "https://otog.cf/"
-          : `https://beta.programming.in.th/tasks/${it.problem_id}`,
+      problem_link: `https://beta.programming.in.th/tasks/${it.problem_id}`,
     }))
   );
 }
