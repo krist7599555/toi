@@ -1,8 +1,8 @@
 set -e +x
 
-TESTCASE=2
-CPP=./toi8_electricity_deque.cpp
-BIN=./toi8_electricity
+TESTCASE=3
+CPP=./toi14_technology.cpp
+BIN=./toi14_technology
 
 echo "test $CPP"
 
