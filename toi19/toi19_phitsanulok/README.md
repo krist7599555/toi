@@ -81,15 +81,17 @@ pq += {001, w=5+0}, {010, w=5+0} เพิ่ม subset ที่ขนาดเ
 หลังจากนี้ทุกอันก็มีค่าเป็น 5 แล้วเพราะว่า 111 กระจายไปหาทุกตัวได้
 ```
 
-<img width="635" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/054b317d-8728-4e91-b830-0e04f862ca46">
+<img width="300" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/054b317d-8728-4e91-b830-0e04f862ca46">
 
-<img width="656" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/018488f4-02ed-4ed2-b910-cdd368dc2bdb">
+<img width="300" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/018488f4-02ed-4ed2-b910-cdd368dc2bdb">
 
-<img width="633" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/f1ec9d97-4ef8-4264-9922-d3215babf097">
+<img width="300" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/f1ec9d97-4ef8-4264-9922-d3215babf097">
 
-<img width="736" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/ca4617f6-320d-4e73-839b-0d643ed9ac8f">
+<img width="300" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/ca4617f6-320d-4e73-839b-0d643ed9ac8f">
 
-<img width="620" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/8dadf775-755c-48a0-8c98-7f3d301fb051">
+<img width="300" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/8dadf775-755c-48a0-8c98-7f3d301fb051">
+
+<img width="300" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/c1e837f5-7be0-4518-bd79-ddb5b68140e4">
 
 
 หลังจากนั้นก็วนผลไม่ทุกผลเพื่อเช็คว่า ถ้ากินผลนี้แล้วต้องกินแก้ไขพิษเท่าไหร่ เอาค่าที่แก้มากทุก (ถ้าแก้ไม่ได้ก็ปล่อยเลย)
