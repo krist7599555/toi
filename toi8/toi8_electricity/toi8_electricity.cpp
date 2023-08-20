@@ -18,7 +18,7 @@ int main() {
     int val;
     std::cin >> val;
     
-    while (!pq.empty() && pq.top().second < idx - k /* ถ้าคำตอบที่ดีที่สุดห่างเกิน k แปลว่าใช้ค่านี้ไม่ได้*/) {
+    while (!pq.empty() && pq.top().second < idx - k /* ถ้าคำตอบที่ดีที่สุดห่างเกิน k แปลว่าใช้ค่านี้ไม่ได้ */) {
       pq.pop();
     }
 
