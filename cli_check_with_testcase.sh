@@ -1,8 +1,8 @@
 set -e +x
 
 TESTCASE=3
-CPP=./toi14_technology.cpp
-BIN=./toi14_technology
+CPP=./toi17_1221.cpp
+BIN=./toi17_1221
 
 echo "test $CPP"
 
@@ -18,6 +18,4 @@ for i in $(seq 1 "$TESTCASE"); do
   echo ----
 done
 
-function check() {
 
-}
