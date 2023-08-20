@@ -5,5 +5,5 @@
 
 [💎 problem.pdf](./toi14_blockchain.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/a706c369-2311-4a0b-ab8c-3b2011404482" />
 <!-- @codegen_problem end -->

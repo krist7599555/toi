@@ -5,5 +5,5 @@
 
 [💎 problem.pdf](./toi14_plantation.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/6c3958f7-5d39-4416-b7fc-d15e51e51143" />
 <!-- @codegen_problem end -->

@@ -5,5 +5,5 @@
 
 [💎 problem.pdf](./toi14_space_1.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/79950685-35d3-4118-b060-1c99ea88a294" />
 <!-- @codegen_problem end -->

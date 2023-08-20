@@ -5,5 +5,5 @@
 
 [💎 problem.pdf](./toi14_logistics.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/1653294b-0136-47ac-a06d-dbf2b8b48a66" />
 <!-- @codegen_problem end -->

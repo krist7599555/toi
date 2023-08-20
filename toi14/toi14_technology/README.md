@@ -7,7 +7,7 @@
 
 [🎉 solution.cpp](./toi14_technology.cpp)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/ca63e3d8-d995-475b-8b9c-b8fcdaa7cbc5" />
 <!-- @codegen_problem end -->
 
 ```text
