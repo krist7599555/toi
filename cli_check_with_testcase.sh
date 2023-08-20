@@ -1,9 +1,8 @@
 set -e +x
 
-CPP=./toi19_range.cpp
-BIN=./toi19_range
-
-TESTCASE=3
+TESTCASE=2
+CPP=./toi8_electricity.cpp
+BIN=./toi8_electricity
 
 echo "test $CPP"
 
