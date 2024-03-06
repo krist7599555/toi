@@ -112,10 +112,9 @@ ans = 0 + 0 + 2 + 5 + 5 + 7 = 19
 
 แล้วถ้าหากทำไปเรื่อยๆ กราฟควรจะหน้าตาประมาณนี้
 
+<img width="600" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/ceecd104-c049-4627-b77d-4f7d346d4969">
+
 ![image](https://github.com/krist7599555/toi/assets/19445033/fc962591-e26c-49c8-94c0-c87416ed6db7)
-
-<img width="400" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/ceecd104-c049-4627-b77d-4f7d346d4969">
-
 
 แต่ต่อให้นึกภาพออกแต่ว่าเวลาคิด ไม่คิดว่าต้องหา T ทั้งก้อนเพื่อมาบวกกลับหลัง ก็ไม่สามารถแก้โจทย์ข้อนี้ได้
 
