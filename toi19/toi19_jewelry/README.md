@@ -103,7 +103,9 @@
 ans = 0 + 0 + 2 + 5 + 5 + 7 = 19
 ```
 
-<img width="452" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/a75acfaa-2532-4050-8997-64df2f215db1">
+<img width="400" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/a75acfaa-2532-4050-8997-64df2f215db1">
+
+<img width="400" alt="image" src="https://github.com/krist7599555/toi/assets/19445033/9c68789d-5294-4e53-8928-f4d357d8dc53">
 
 
 ถ้าลองทดได้ตามนี้ ก็เขียนโคดไม่ยากแล้ว
