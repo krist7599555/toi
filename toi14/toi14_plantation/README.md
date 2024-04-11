@@ -1,5 +1,4 @@
 <!-- @codegen_problem begin -->
-
 # TOI14 plantation - สวนต้นไม้ (PLANTATION)
 
 [🏠 รวมเฉลย TOI14](../)
