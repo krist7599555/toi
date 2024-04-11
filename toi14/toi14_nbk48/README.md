@@ -5,5 +5,11 @@
 
 [💎 problem.pdf](./toi14_nbk48.pdf)
 
+[🎉 solution.cpp](./toi14_nbk48.cpp)
+
 <img width="700" src="https://github.com/krist7599555/toi/assets/19445033/87acd690-261c-4f09-bb08-91354e9c3881" />
 <!-- @codegen_problem end -->
+
+## Solution
+
+Binary Search + Greedy
