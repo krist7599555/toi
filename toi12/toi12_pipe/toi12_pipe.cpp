@@ -14,8 +14,9 @@ inline int point_distance(const Point& lhs, const Point& rhs) {
   return std::abs(lhs.x - rhs.x) + std::abs(lhs.y - rhs.y);
 }
 
-bool visit[MAXN]; // !pure global array is faster than std::vector<bool> so the grader will pass
-int dist[MAXN]; //
+// TestCase 17 Will Timeout if using std::vector<bool> in main
+bool visit[MAXN];
+int dist[MAXN];
 
 int main() {
   std::cin.sync_with_stdio(0);
@@ -45,7 +46,8 @@ int main() {
     node = ans_node;
     assert(node != -1);
   }
-  std::sort(mst.begin(), mst.end());
+  std::sort(mst.begin(), mst.end()); // Tip! Optimize Use Below nth_element without fully sort
+  // std::nth_element(mst.begin(), mst.begin() + n - k, mst.end()); // Sadly TestCase 17 Run Slower on this
   int ans = std::accumulate(mst.begin(), mst.begin() + n - k, 0);
   std::cout << ans << '\n';
 }
