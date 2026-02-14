@@ -5,5 +5,5 @@
 
 [💎 problem.pdf](./toi17_metaverse_1.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/user-attachments/assets/a7c13770-8f96-4ad9-b67c-99336617e74e" />
 <!-- @codegen_problem end -->

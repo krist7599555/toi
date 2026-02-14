@@ -7,5 +7,5 @@
 
 [🎉 solution.cpp](./toi17_1221.cpp)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/user-attachments/assets/00e037fc-c84e-4048-a96e-a716c2ca321b" />
 <!-- @codegen_problem end -->

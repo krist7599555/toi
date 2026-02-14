@@ -7,7 +7,7 @@
 
 [🎉 solution.cpp](./toi17_noodle.cpp)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/user-attachments/assets/c94556b1-ccb3-4847-8e3d-cee832de5b3a" />
 <!-- @codegen_problem end -->
 
 BinarySearch + K-th Largest Element using Priority Queue

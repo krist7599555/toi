@@ -7,7 +7,7 @@
 
 [🎉 solution.cpp](./toi17_wall.cpp)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+<img width="700" src="https://github.com/user-attachments/assets/d814e455-9ccb-435c-94f7-5fcaa705ba54" />
 <!-- @codegen_problem end -->
 
 Search on Grid
