@@ -4,7 +4,7 @@ using namespace std;
 const int MAXN = 500005;
 
 std::vector<int> edge[MAXN];
-bool visit[MAXN];
+bool visited[MAXN];
 
 int start_node;
 int ans_max_sz = 0;
@@ -14,11 +14,11 @@ int ans_node;
 int dfs(int now, int from) {
   int sz = 0;
   bool is_cycle = false;
-  visit[now] = true;
+  visited[now] = true;
   for (auto nx : edge[now]) {
     if (nx == from) continue;
     if (nx == start_node) is_cycle = true;
-    if (visit[nx]) continue;
+    if (visited[nx]) continue;
     int child = dfs(nx,now);
     if (child == 0) is_cycle = true;
     sz += child;

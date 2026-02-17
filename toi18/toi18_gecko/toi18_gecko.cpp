@@ -12,7 +12,7 @@ ShortestPath (Dijkstra's algorithm) + Backtrack of DFS
 using namespace std;
 template<typename T>
 using Vec = std::vector<T>;
-const int INFINITY = 2e9;
+const int MY_INFINITY = 2e9;
 
 struct Bridge {
   int from;
@@ -23,7 +23,7 @@ struct Bridge {
   }
 };
 struct Ceil {
-  int min_distance = INFINITY; // mutable
+  int min_distance = MY_INFINITY; // mutable
   Vec<Bridge> bridges;
 };
 
@@ -68,7 +68,7 @@ int main() {
   // answer
   for (int pos : end_positions) {
     std::cout << ceil[pos].min_distance << ' ';
-    assert(ceil[pos].min_distance < INFINITY);
+    assert(ceil[pos].min_distance < MY_INFINITY);
   }
   std::cout << std::endl;
   std::cout << backtrack.size() - 1 << std::endl; // exclude root node

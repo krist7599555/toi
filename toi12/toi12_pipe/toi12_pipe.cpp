@@ -15,7 +15,7 @@ inline int point_distance(const Point& lhs, const Point& rhs) {
 }
 
 // TestCase 17 Will Timeout if using std::vector<bool> in main
-bool visit[MAXN];
+bool visited[MAXN];
 int dist[MAXN];
 
 int main() {
@@ -26,15 +26,15 @@ int main() {
   std::vector<Point> point(n);
   for (auto& p : point) std::cin >> p.x >> p.y;
   
-  std::fill_n(visit, n, false);
+  std::fill_n(visited, n, false);
   std::fill_n(dist, n, INF);
   std::vector<int> mst;
   
   for (int node = 0; mst.size() != n - 1;) {
     std::tuple<int, int> local_min = { INF, -1 }; // [distance, node]
-    visit[node] = true;
+    visited[node] = true;
     for (int nx = 0; nx < n; nx++) {
-      if (visit[nx]) continue;
+      if (visited[nx]) continue;
       int cost = point_distance(point[node], point[nx]);
       local_min = std::min(local_min, {
         dist[nx] = std::min(dist[nx], cost),
