@@ -25,9 +25,9 @@
 
   <img width="350" alt="toi3_filter" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_tile](../toi3/toi3_tile) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tile)
+- [toi3_tiling](../toi3/toi3_tiling) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tiling)
 
-  <img width="350" alt="toi3_tile" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
+  <img width="350" alt="toi3_tiling" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
 - [toi3_tiling](../toi3/toi3_tiling) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tiling)
 
