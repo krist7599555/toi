@@ -3,6 +3,7 @@ import { glob } from "glob";
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import { async_pipe } from "ts-async-pipe";
+import { globSync } from "glob";
 
 import {
   codegen_override_block,
@@ -49,12 +50,18 @@ ${toi.tasks
 
 ${tasks
   .map(
-    (t) =>
-      `- [${t.problem_id}](${rel_to_root}${toi.year}/${t.problem_id}) - ${
+    (t) => {
+      const pattern = `${rel_to_root}${toi.year}/${t.problem_id}/*.cpp`.replaceAll('../', '');
+      const solution_exists = globSync(pattern).length > 0;
+      const solution_link = solution_exists ? `, [เฉลย](${rel_to_root}${toi.year}/${t.problem_id})` : '';
+      console.log({ pattern, solution_exists })
+      
+      return `- [${t.problem_id}](${rel_to_root}${toi.year}/${t.problem_id}) - ${
         t.problem_title
-      } [ลองทำ](${t.problem_link}), [เฉลย](${rel_to_root}${toi.year}/${t.problem_id})\n\n  <img width="350" alt="${
-        t.problem_id
-      }" src="${t.image || URL_NO_IMAGE}">`
+        } [ลองทำ](${t.problem_link})${solution_link}\n\n  <img width="350" alt="${
+          t.problem_id
+        }" src="${t.image || URL_NO_IMAGE}">`
+    }
   )
   .join("\n\n")
   .trim()}`

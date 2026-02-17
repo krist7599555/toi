@@ -9,19 +9,19 @@
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## เฉลย TOI12 day ?
 
-- [toi12_barrier](../toi12/toi12_barrier) - เขื่อนกันคลื่น [ลองทำ](https://beta.programming.in.th/tasks/toi12_barrier), [เฉลย](../toi12/toi12_barrier)
+- [toi12_barrier](../toi12/toi12_barrier) - เขื่อนกันคลื่น [ลองทำ](https://beta.programming.in.th/tasks/toi12_barrier)
 
   <img width="350" alt="toi12_barrier" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_cablecar](../toi12/toi12_cablecar) - กระเช้าไฟฟ้า [ลองทำ](https://beta.programming.in.th/tasks/toi12_cablecar), [เฉลย](../toi12/toi12_cablecar)
+- [toi12_cablecar](../toi12/toi12_cablecar) - กระเช้าไฟฟ้า [ลองทำ](https://beta.programming.in.th/tasks/toi12_cablecar)
 
   <img width="350" alt="toi12_cablecar" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_key](../toi12/toi12_key) - กุญแจลับสมบัติเก้าเส้ง [ลองทำ](https://beta.programming.in.th/tasks/toi12_key), [เฉลย](../toi12/toi12_key)
+- [toi12_key](../toi12/toi12_key) - กุญแจลับสมบัติเก้าเส้ง [ลองทำ](https://beta.programming.in.th/tasks/toi12_key)
 
   <img width="350" alt="toi12_key" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_peak](../toi12/toi12_peak) - ป้อมภูผา [ลองทำ](https://beta.programming.in.th/tasks/toi12_peak), [เฉลย](../toi12/toi12_peak)
+- [toi12_peak](../toi12/toi12_peak) - ป้อมภูผา [ลองทำ](https://beta.programming.in.th/tasks/toi12_peak)
 
   <img width="350" alt="toi12_peak" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 

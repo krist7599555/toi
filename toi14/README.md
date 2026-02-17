@@ -25,7 +25,7 @@
 
   <img width="350" alt="toi14_plantation" src="https://github.com/krist7599555/toi/assets/19445033/6c3958f7-5d39-4416-b7fc-d15e51e51143">
 
-- [toi14_space_1](../toi14/toi14_space_1) - ภาพถ่ายอวกาศแบบห่วงลึก (SPACE DEEP FIELD IMAGE) [ลองทำ](https://beta.programming.in.th/tasks/toi14_space_1), [เฉลย](../toi14/toi14_space_1)
+- [toi14_space_1](../toi14/toi14_space_1) - ภาพถ่ายอวกาศแบบห่วงลึก (SPACE DEEP FIELD IMAGE) [ลองทำ](https://beta.programming.in.th/tasks/toi14_space_1)
 
   <img width="350" alt="toi14_space_1" src="https://github.com/krist7599555/toi/assets/19445033/79950685-35d3-4118-b060-1c99ea88a294">
 
