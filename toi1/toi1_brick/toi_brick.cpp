@@ -28,7 +28,7 @@ int main() {
         int bricks;
         std::cin >> bricks;
         int ground_row = find_ground_row(col);
-        while (--ground_row >= 0 && bricks-- > 0) { // fill brick from ground
+        while (bricks-- > 0 && --ground_row >= 0) { // fill brick from ground
             grid[ground_row][col] = '#';
         }
     }
