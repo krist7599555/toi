@@ -6,6 +6,8 @@ contribution is always welcome
 
 [website](https://krist7599555.github.io/toi), [github](https://github.com/krist7599555/toi)
 
+[ทำโจทย์ TOI ทั้งหมดที่ programming.in.th](https://programming.in.th/archive/toi)
+
 <!-- @codegen_tois begin -->
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## [TOI19](./toi19)
