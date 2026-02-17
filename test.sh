@@ -18,10 +18,18 @@ find $WORKDIR -type f -name '*.cpp' | sort -V | while read -r cpp_file; do
     name="$(basename "$test_case" .${test_case##*.})"
     found=true
     ./tmp/bin < "$test_case" > "./tmp/$name.out"
-    git diff --no-index --color=always --quiet \
+    
+    if git diff --no-index --quiet \
       "${test_case%.in}.sol" "./tmp/$name.out"
-    # echo "  Pass - $test_case"
-    printf "P"
+    then
+      printf "P"
+    else
+      printf -- "- \033[31m[FAIL]\033[0m\n"
+      
+      git diff --no-index --color=always \
+          "${test_case%.in}.sol" "./tmp/$name.out"
+      exit 1
+    fi
   done
   
   if [ "$found" = false ]; then
