@@ -3,18 +3,20 @@ import { glob } from "glob";
 import * as fs from "node:fs/promises";
 import * as path from "node:path";
 import { async_pipe } from "ts-async-pipe";
+
 import {
   codegen_override_block,
   codegen_replace_block_string,
   string_insertline_after,
 } from "./codegen_utils.mjs";
-import * as TOI from "./retrieve_toi.mjs";
+
+import * as ToiData from "./toi_data.mjs";
 
 const root_dir = new URL("../", import.meta.url);
 
 // INFORMATION
-const problems = await TOI.retrieve_meta_toi_problems();
-const tois = await TOI.retrieve_meta_toi_competitions();
+const problems = await ToiData.getProblemCsv();
+const tois = await ToiData.getCompetitionYaml();
 
 const MD_WARN_NO_EDIT =
   "<!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->";

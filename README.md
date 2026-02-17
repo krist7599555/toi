@@ -674,4 +674,4 @@ contribution is always welcome
 
 ---
 
-หวังว่าน้องๆจะได้ประโยชน์กันนะ 😎 #ocomisfun
+หวังว่าน้องๆจะได้ประโยชน์กันนะ 😎 #ocomisfun #orz

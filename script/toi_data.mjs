@@ -9,12 +9,9 @@ import {
   sort_by,
 } from "@krist7599555/lodosh";
 import * as csv from "csv/sync";
-import { glob } from "glob";
 import * as fs from "node:fs/promises";
-import * as path from "node:path";
 import { async_pipe } from "ts-async-pipe";
 import * as yaml from "yaml";
-import { codegen_replace_block_string } from "./codegen_utils.mjs";
 
 const root_dir = new URL("../", import.meta.url);
 
@@ -22,7 +19,7 @@ const root_dir = new URL("../", import.meta.url);
  * retrieve data from
  * - [meta_toi_problems.csv](../meta_toi_problems.csv)
  */
-export async function retrieve_meta_toi_problems() {
+export async function getProblemCsv() {
   return await async_pipe(
     fs.readFile(new URL("./meta_toi_problems.csv", root_dir)),
     (buf) => csv.parse(buf, { columns: true }),
@@ -46,8 +43,8 @@ export async function retrieve_meta_toi_problems() {
  * retrieve data from
  * - [meta_toi_competitions.yaml](../meta_toi_competitions.yaml)
  */
-export async function retrieve_meta_toi_competitions() {
-  const problems = await retrieve_meta_toi_problems();
+export async function getCompetitionYaml() {
+  const problems = await getProblemCsv();
   const tois = await async_pipe(
     fs.readFile(new URL("./meta_toi_competitions.yaml", root_dir), "utf-8"),
     (buf) => yaml.parse(buf),
