@@ -17,30 +17,30 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI19 day 1
 
-- [toi19_merge](./toi19/toi19_merge) - ผสาน (Merge) [ลองทำ](https://beta.programming.in.th/tasks/toi19_merge)
+- [toi19_merge](./toi19/toi19_merge) - ผสาน (Merge) [ลองทำ](https://beta.programming.in.th/tasks/toi19_merge), [เฉลย](./toi19/toi19_merge)
 
   <img width="350" alt="toi19_merge" src="https://github.com/krist7599555/toi/assets/19445033/23655709-695a-4a82-8d02-c39f97ccf9ac">
 
-- [toi19_explorer](./toi19/toi19_explorer) - นักสํารวจ (Explorer) [ลองทำ](https://beta.programming.in.th/tasks/toi19_explorer)
+- [toi19_explorer](./toi19/toi19_explorer) - นักสํารวจ (Explorer) [ลองทำ](https://beta.programming.in.th/tasks/toi19_explorer), [เฉลย](./toi19/toi19_explorer)
 
   <img width="350" alt="toi19_explorer" src="https://github.com/krist7599555/toi/assets/19445033/1c1e7a55-a123-4f21-8a60-cfc0eac008a3">
 
-- [toi19_jewelry](./toi19/toi19_jewelry) - สร้อยอัญมณี (Jewelry Necklace) [ลองทำ](https://beta.programming.in.th/tasks/toi19_jewelry)
+- [toi19_jewelry](./toi19/toi19_jewelry) - สร้อยอัญมณี (Jewelry Necklace) [ลองทำ](https://beta.programming.in.th/tasks/toi19_jewelry), [เฉลย](./toi19/toi19_jewelry)
 
   <img width="350" alt="toi19_jewelry" src="https://github.com/krist7599555/toi/assets/19445033/95ccb6f3-3f7f-47d0-b003-390ce1b5a8d0">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI19 day 2
 
-- [toi19_energy](./toi19/toi19_energy) - เติมพลังงาน (Energy) [ลองทำ](https://beta.programming.in.th/tasks/toi19_energy)
+- [toi19_energy](./toi19/toi19_energy) - เติมพลังงาน (Energy) [ลองทำ](https://beta.programming.in.th/tasks/toi19_energy), [เฉลย](./toi19/toi19_energy)
 
   <img width="350" alt="toi19_energy" src="https://github.com/krist7599555/toi/assets/19445033/1940644a-8b27-4212-9c61-8190b575be78">
 
-- [toi19_phitsanulok](./toi19/toi19_phitsanulok) - พิด’โลก (Phitsanulok) [ลองทำ](https://beta.programming.in.th/tasks/toi19_phitsanulok)
+- [toi19_phitsanulok](./toi19/toi19_phitsanulok) - พิด’โลก (Phitsanulok) [ลองทำ](https://beta.programming.in.th/tasks/toi19_phitsanulok), [เฉลย](./toi19/toi19_phitsanulok)
 
   <img width="350" alt="toi19_phitsanulok" src="https://github.com/krist7599555/toi/assets/19445033/960f2a15-2f6d-4ee2-9dbc-06889ea5245c">
 
-- [toi19_range](./toi19/toi19_range) - บ้านมุง (Range) [ลองทำ](https://beta.programming.in.th/tasks/toi19_range)
+- [toi19_range](./toi19/toi19_range) - บ้านมุง (Range) [ลองทำ](https://beta.programming.in.th/tasks/toi19_range), [เฉลย](./toi19/toi19_range)
 
   <img width="350" alt="toi19_range" src="https://github.com/krist7599555/toi/assets/19445033/84d7f1c6-da5e-47ca-a795-7161b801600e">
 
@@ -58,30 +58,30 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI18 day 1
 
-- [toi18_mountain](./toi18/toi18_mountain) - แอ่วม่อน (Mountain) [ลองทำ](https://beta.programming.in.th/tasks/toi18_mountain)
+- [toi18_mountain](./toi18/toi18_mountain) - แอ่วม่อน (Mountain) [ลองทำ](https://beta.programming.in.th/tasks/toi18_mountain), [เฉลย](./toi18/toi18_mountain)
 
   <img width="350" alt="toi18_mountain" src="https://github.com/krist7599555/toi/assets/19445033/2caed7c8-5601-4969-9dea-a54da40ceb11">
 
-- [toi18_garden](./toi18/toi18_garden) - สวนพฤกษศาสตร์ (Botanical Garden) [ลองทำ](https://beta.programming.in.th/tasks/toi18_garden)
+- [toi18_garden](./toi18/toi18_garden) - สวนพฤกษศาสตร์ (Botanical Garden) [ลองทำ](https://beta.programming.in.th/tasks/toi18_garden), [เฉลย](./toi18/toi18_garden)
 
   <img width="350" alt="toi18_garden" src="https://github.com/krist7599555/toi/assets/19445033/f49b28cb-9821-4501-a709-921476f11828">
 
-- [toi18_constellation](./toi18/toi18_constellation) - ดารากร (Constellation) [ลองทำ](https://beta.programming.in.th/tasks/toi18_constellation)
+- [toi18_constellation](./toi18/toi18_constellation) - ดารากร (Constellation) [ลองทำ](https://beta.programming.in.th/tasks/toi18_constellation), [เฉลย](./toi18/toi18_constellation)
 
   <img width="350" alt="toi18_constellation" src="https://github.com/krist7599555/toi/assets/19445033/bc0f9415-1d77-493e-835c-7a4dd7f37add">
 
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI18 day 2
 
-- [toi18_shopping](./toi18/toi18_shopping) - เชียงใหม่ไน่ทรัพย์ (Shopping) [ลองทำ](https://beta.programming.in.th/tasks/toi18_shopping)
+- [toi18_shopping](./toi18/toi18_shopping) - เชียงใหม่ไน่ทรัพย์ (Shopping) [ลองทำ](https://beta.programming.in.th/tasks/toi18_shopping), [เฉลย](./toi18/toi18_shopping)
 
   <img width="350" alt="toi18_shopping" src="https://github.com/krist7599555/toi/assets/19445033/cab4ce7c-5d38-4118-9553-ee980695a05c">
 
-- [toi18_sausage](./toi18/toi18_sausage) - ไส้อั่วทิพย์ (Sai-ua) [ลองทำ](https://beta.programming.in.th/tasks/toi18_sausage)
+- [toi18_sausage](./toi18/toi18_sausage) - ไส้อั่วทิพย์ (Sai-ua) [ลองทำ](https://beta.programming.in.th/tasks/toi18_sausage), [เฉลย](./toi18/toi18_sausage)
 
   <img width="350" alt="toi18_sausage" src="https://github.com/krist7599555/toi/assets/19445033/38b4d87c-0304-4d26-90a0-9ddb8706e481">
 
-- [toi18_gecko](./toi18/toi18_gecko) - จั๊กกิ้ม (Gecko) [ลองทำ](https://beta.programming.in.th/tasks/toi18_gecko)
+- [toi18_gecko](./toi18/toi18_gecko) - จั๊กกิ้ม (Gecko) [ลองทำ](https://beta.programming.in.th/tasks/toi18_gecko), [เฉลย](./toi18/toi18_gecko)
 
   <img width="350" alt="toi18_gecko" src="https://github.com/krist7599555/toi/assets/19445033/cee65a0e-a8c1-4cfd-b4aa-e677ef607043">
 
@@ -97,31 +97,31 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI17 day ?
 
-- [toi17_1221](./toi17/toi17_1221) - นครมาเก็ต [ลองทำ](https://beta.programming.in.th/tasks/toi17_1221)
+- [toi17_1221](./toi17/toi17_1221) - นครมาเก็ต [ลองทำ](https://beta.programming.in.th/tasks/toi17_1221), [เฉลย](./toi17/toi17_1221)
 
   <img width="350" alt="toi17_1221" src="https://github.com/user-attachments/assets/00e037fc-c84e-4048-a96e-a716c2ca321b">
 
-- [toi17_junction](./toi17/toi17_junction) - นครสามแพร่ง (T-Junction City) [ลองทำ](https://beta.programming.in.th/tasks/toi17_junction)
+- [toi17_junction](./toi17/toi17_junction) - นครสามแพร่ง (T-Junction City) [ลองทำ](https://beta.programming.in.th/tasks/toi17_junction), [เฉลย](./toi17/toi17_junction)
 
   <img width="350" alt="toi17_junction" src="https://github.com/user-attachments/assets/b091965e-c56b-4bdb-922c-eeff76799b92">
 
-- [toi17_metaverse_1](./toi17/toi17_metaverse_1) - แผนที่ตัวกวนป่วนนครจักรวาลนฤมิต (The Marauder's Map of Metaverse City) [ลองทำ](https://beta.programming.in.th/tasks/toi17_metaverse_1)
+- [toi17_metaverse_1](./toi17/toi17_metaverse_1) - แผนที่ตัวกวนป่วนนครจักรวาลนฤมิต (The Marauder's Map of Metaverse City) [ลองทำ](https://beta.programming.in.th/tasks/toi17_metaverse_1), [เฉลย](./toi17/toi17_metaverse_1)
 
   <img width="350" alt="toi17_metaverse_1" src="https://github.com/user-attachments/assets/a7c13770-8f96-4ad9-b67c-99336617e74e">
 
-- [toi17_metaverse_2](./toi17/toi17_metaverse_2) - แผนที่ตัวกวนป่วนนครจักรวาลนฤมิต (The Marauder's Map of Metaverse City) [ลองทำ](https://beta.programming.in.th/tasks/toi17_metaverse_2)
+- [toi17_metaverse_2](./toi17/toi17_metaverse_2) - แผนที่ตัวกวนป่วนนครจักรวาลนฤมิต (The Marauder's Map of Metaverse City) [ลองทำ](https://beta.programming.in.th/tasks/toi17_metaverse_2), [เฉลย](./toi17/toi17_metaverse_2)
 
   <img width="350" alt="toi17_metaverse_2" src="https://github.com/user-attachments/assets/ad482d66-c0a0-42f9-b578-82c55b142404">
 
-- [toi17_noodle](./toi17/toi17_noodle) - ขนมจีนนคร (Fermented Rice Noodle) [ลองทำ](https://beta.programming.in.th/tasks/toi17_noodle)
+- [toi17_noodle](./toi17/toi17_noodle) - ขนมจีนนคร (Fermented Rice Noodle) [ลองทำ](https://beta.programming.in.th/tasks/toi17_noodle), [เฉลย](./toi17/toi17_noodle)
 
   <img width="350" alt="toi17_noodle" src="https://github.com/user-attachments/assets/c94556b1-ccb3-4847-8e3d-cee832de5b3a">
 
-- [toi17_sequel](./toi17/toi17_sequel) - กำแพงนคร: ภาคต่อ (The Wall: The Sequel) [ลองทำ](https://beta.programming.in.th/tasks/toi17_sequel)
+- [toi17_sequel](./toi17/toi17_sequel) - กำแพงนคร: ภาคต่อ (The Wall: The Sequel) [ลองทำ](https://beta.programming.in.th/tasks/toi17_sequel), [เฉลย](./toi17/toi17_sequel)
 
   <img width="350" alt="toi17_sequel" src="https://github.com/user-attachments/assets/8c9ea74f-ac1f-4246-8a05-12d543a8fb4d">
 
-- [toi17_wall](./toi17/toi17_wall) - กำแพงนคร (The Wall) [ลองทำ](https://beta.programming.in.th/tasks/toi17_wall)
+- [toi17_wall](./toi17/toi17_wall) - กำแพงนคร (The Wall) [ลองทำ](https://beta.programming.in.th/tasks/toi17_wall), [เฉลย](./toi17/toi17_wall)
 
   <img width="350" alt="toi17_wall" src="https://github.com/user-attachments/assets/d814e455-9ccb-435c-94f7-5fcaa705ba54">
 
@@ -137,27 +137,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI16 day ?
 
-- [toi16_carte](./toi16/toi16_carte) - ร้านอาหารตามสั่ง (Carte) [ลองทำ](https://beta.programming.in.th/tasks/toi16_carte)
+- [toi16_carte](./toi16/toi16_carte) - ร้านอาหารตามสั่ง (Carte) [ลองทำ](https://beta.programming.in.th/tasks/toi16_carte), [เฉลย](./toi16/toi16_carte)
 
   <img width="350" alt="toi16_carte" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi16_dinocell](./toi16/toi16_dinocell) - เซลล์ไดโน (Dino Cell) [ลองทำ](https://beta.programming.in.th/tasks/toi16_dinocell)
+- [toi16_dinocell](./toi16/toi16_dinocell) - เซลล์ไดโน (Dino Cell) [ลองทำ](https://beta.programming.in.th/tasks/toi16_dinocell), [เฉลย](./toi16/toi16_dinocell)
 
   <img width="350" alt="toi16_dinocell" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi16_outbreak](./toi16/toi16_outbreak) - ไวรัสโรคระบาด (Outbreak) [ลองทำ](https://beta.programming.in.th/tasks/toi16_outbreak)
+- [toi16_outbreak](./toi16/toi16_outbreak) - ไวรัสโรคระบาด (Outbreak) [ลองทำ](https://beta.programming.in.th/tasks/toi16_outbreak), [เฉลย](./toi16/toi16_outbreak)
 
   <img width="350" alt="toi16_outbreak" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi16_packbot](./toi16/toi16_packbot) - หุ่นยนต์บรรจุสินค้า (PackBot) [ลองทำ](https://beta.programming.in.th/tasks/toi16_packbot)
+- [toi16_packbot](./toi16/toi16_packbot) - หุ่นยนต์บรรจุสินค้า (PackBot) [ลองทำ](https://beta.programming.in.th/tasks/toi16_packbot), [เฉลย](./toi16/toi16_packbot)
 
   <img width="350" alt="toi16_packbot" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi16_watertruck](./toi16/toi16_watertruck) - รถรดน้ำต้นไม้พลังงานไดโน (WaterTruck) [ลองทำ](https://beta.programming.in.th/tasks/toi16_watertruck)
+- [toi16_watertruck](./toi16/toi16_watertruck) - รถรดน้ำต้นไม้พลังงานไดโน (WaterTruck) [ลองทำ](https://beta.programming.in.th/tasks/toi16_watertruck), [เฉลย](./toi16/toi16_watertruck)
 
   <img width="350" alt="toi16_watertruck" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi16_wheel](./toi16/toi16_wheel) - วงล้อแห่งโชคชะตา (DinoWheel of Destiny) [ลองทำ](https://beta.programming.in.th/tasks/toi16_wheel)
+- [toi16_wheel](./toi16/toi16_wheel) - วงล้อแห่งโชคชะตา (DinoWheel of Destiny) [ลองทำ](https://beta.programming.in.th/tasks/toi16_wheel), [เฉลย](./toi16/toi16_wheel)
 
   <img width="350" alt="toi16_wheel" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -169,27 +169,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI15 day ?
 
-- [toi15_archery](./toi15/toi15_archery) - เกาทัณฑ์ประชันแม่น (Archery) [ลองทำ](https://beta.programming.in.th/tasks/toi15_archery)
+- [toi15_archery](./toi15/toi15_archery) - เกาทัณฑ์ประชันแม่น (Archery) [ลองทำ](https://beta.programming.in.th/tasks/toi15_archery), [เฉลย](./toi15/toi15_archery)
 
   <img width="350" alt="toi15_archery" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi15_budget](./toi15/toi15_budget) - งบประมาณปรับปรุงเส้นทาง (Budget) [ลองทำ](https://beta.programming.in.th/tasks/toi15_budget)
+- [toi15_budget](./toi15/toi15_budget) - งบประมาณปรับปรุงเส้นทาง (Budget) [ลองทำ](https://beta.programming.in.th/tasks/toi15_budget), [เฉลย](./toi15/toi15_budget)
 
   <img width="350" alt="toi15_budget" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi15_cave](./toi15/toi15_cave) - ถ้ำเสือศรีราชา (Cave) [ลองทำ](https://beta.programming.in.th/tasks/toi15_cave)
+- [toi15_cave](./toi15/toi15_cave) - ถ้ำเสือศรีราชา (Cave) [ลองทำ](https://beta.programming.in.th/tasks/toi15_cave), [เฉลย](./toi15/toi15_cave)
 
   <img width="350" alt="toi15_cave" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi15_fly](./toi15/toi15_fly) - ค่ายกลพิฆาตแมลงวัน (Fly) [ลองทำ](https://beta.programming.in.th/tasks/toi15_fly)
+- [toi15_fly](./toi15/toi15_fly) - ค่ายกลพิฆาตแมลงวัน (Fly) [ลองทำ](https://beta.programming.in.th/tasks/toi15_fly), [เฉลย](./toi15/toi15_fly)
 
   <img width="350" alt="toi15_fly" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi15_medal](./toi15/toi15_medal) - เหรียญโอลิมปิก (Medal) [ลองทำ](https://beta.programming.in.th/tasks/toi15_medal)
+- [toi15_medal](./toi15/toi15_medal) - เหรียญโอลิมปิก (Medal) [ลองทำ](https://beta.programming.in.th/tasks/toi15_medal), [เฉลย](./toi15/toi15_medal)
 
   <img width="350" alt="toi15_medal" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi15_minreq](./toi15/toi15_minreq) - ทันเนอะ (Minimum Load Requirement) [ลองทำ](https://beta.programming.in.th/tasks/toi15_minreq)
+- [toi15_minreq](./toi15/toi15_minreq) - ทันเนอะ (Minimum Load Requirement) [ลองทำ](https://beta.programming.in.th/tasks/toi15_minreq), [เฉลย](./toi15/toi15_minreq)
 
   <img width="350" alt="toi15_minreq" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -201,31 +201,31 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI14 day ?
 
-- [toi14_blockchain](./toi14/toi14_blockchain) - บล็อกเชน (BLOCKCHAIN) [ลองทำ](https://beta.programming.in.th/tasks/toi14_blockchain)
+- [toi14_blockchain](./toi14/toi14_blockchain) - บล็อกเชน (BLOCKCHAIN) [ลองทำ](https://beta.programming.in.th/tasks/toi14_blockchain), [เฉลย](./toi14/toi14_blockchain)
 
   <img width="350" alt="toi14_blockchain" src="https://github.com/krist7599555/toi/assets/19445033/a706c369-2311-4a0b-ab8c-3b2011404482">
 
-- [toi14_logistics](./toi14/toi14_logistics) - โลจิสติกส์ (LOGISTICS) [ลองทำ](https://beta.programming.in.th/tasks/toi14_logistics)
+- [toi14_logistics](./toi14/toi14_logistics) - โลจิสติกส์ (LOGISTICS) [ลองทำ](https://beta.programming.in.th/tasks/toi14_logistics), [เฉลย](./toi14/toi14_logistics)
 
   <img width="350" alt="toi14_logistics" src="https://github.com/krist7599555/toi/assets/19445033/1653294b-0136-47ac-a06d-dbf2b8b48a66">
 
-- [toi14_nbk48](./toi14/toi14_nbk48) - สารคดีออนไลน์ (NBK48) [ลองทำ](https://beta.programming.in.th/tasks/toi14_nbk48)
+- [toi14_nbk48](./toi14/toi14_nbk48) - สารคดีออนไลน์ (NBK48) [ลองทำ](https://beta.programming.in.th/tasks/toi14_nbk48), [เฉลย](./toi14/toi14_nbk48)
 
   <img width="350" alt="toi14_nbk48" src="https://github.com/krist7599555/toi/assets/19445033/87acd690-261c-4f09-bb08-91354e9c3881">
 
-- [toi14_plantation](./toi14/toi14_plantation) - สวนต้นไม้ (PLANTATION) [ลองทำ](https://beta.programming.in.th/tasks/toi14_plantation)
+- [toi14_plantation](./toi14/toi14_plantation) - สวนต้นไม้ (PLANTATION) [ลองทำ](https://beta.programming.in.th/tasks/toi14_plantation), [เฉลย](./toi14/toi14_plantation)
 
   <img width="350" alt="toi14_plantation" src="https://github.com/krist7599555/toi/assets/19445033/6c3958f7-5d39-4416-b7fc-d15e51e51143">
 
-- [toi14_space_1](./toi14/toi14_space_1) - ภาพถ่ายอวกาศแบบห่วงลึก (SPACE DEEP FIELD IMAGE) [ลองทำ](https://beta.programming.in.th/tasks/toi14_space_1)
+- [toi14_space_1](./toi14/toi14_space_1) - ภาพถ่ายอวกาศแบบห่วงลึก (SPACE DEEP FIELD IMAGE) [ลองทำ](https://beta.programming.in.th/tasks/toi14_space_1), [เฉลย](./toi14/toi14_space_1)
 
   <img width="350" alt="toi14_space_1" src="https://github.com/krist7599555/toi/assets/19445033/79950685-35d3-4118-b060-1c99ea88a294">
 
-- [toi14_space_2](./toi14/toi14_space_2) - ภาพถ่ายอวกาศแบบห่วงลึก (SPACE DEEP FIELD IMAGE) [ลองทำ](https://beta.programming.in.th/tasks/toi14_space_2)
+- [toi14_space_2](./toi14/toi14_space_2) - ภาพถ่ายอวกาศแบบห่วงลึก (SPACE DEEP FIELD IMAGE) [ลองทำ](https://beta.programming.in.th/tasks/toi14_space_2), [เฉลย](./toi14/toi14_space_2)
 
   <img width="350" alt="toi14_space_2" src="https://github.com/krist7599555/toi/assets/19445033/07d46756-5c7e-433b-8ac9-820761f0098d">
 
-- [toi14_technology](./toi14/toi14_technology) - พัฒนาเทคโนโลยี (TECHNOLOGY) [ลองทำ](https://beta.programming.in.th/tasks/toi14_technology)
+- [toi14_technology](./toi14/toi14_technology) - พัฒนาเทคโนโลยี (TECHNOLOGY) [ลองทำ](https://beta.programming.in.th/tasks/toi14_technology), [เฉลย](./toi14/toi14_technology)
 
   <img width="350" alt="toi14_technology" src="https://github.com/krist7599555/toi/assets/19445033/ca63e3d8-d995-475b-8b9c-b8fcdaa7cbc5">
 
@@ -237,27 +237,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI13 day ?
 
-- [toi13_art](./toi13/toi13_art) - ศิลปะโครมาโทกราฟี (Chromatography Art) [ลองทำ](https://beta.programming.in.th/tasks/toi13_art)
+- [toi13_art](./toi13/toi13_art) - ศิลปะโครมาโทกราฟี (Chromatography Art) [ลองทำ](https://beta.programming.in.th/tasks/toi13_art), [เฉลย](./toi13/toi13_art)
 
   <img width="350" alt="toi13_art" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi13_cats](./toi13/toi13_cats) - วิฬาร์ (Cats) [ลองทำ](https://beta.programming.in.th/tasks/toi13_cats)
+- [toi13_cats](./toi13/toi13_cats) - วิฬาร์ (Cats) [ลองทำ](https://beta.programming.in.th/tasks/toi13_cats), [เฉลย](./toi13/toi13_cats)
 
   <img width="350" alt="toi13_cats" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi13_orchid](./toi13/toi13_orchid) - กล้วยไม้ (Orchid) [ลองทำ](https://beta.programming.in.th/tasks/toi13_orchid)
+- [toi13_orchid](./toi13/toi13_orchid) - กล้วยไม้ (Orchid) [ลองทำ](https://beta.programming.in.th/tasks/toi13_orchid), [เฉลย](./toi13/toi13_orchid)
 
   <img width="350" alt="toi13_orchid" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi13_robot](./toi13/toi13_robot) - หุ่นยนต์ (Robot) [ลองทำ](https://beta.programming.in.th/tasks/toi13_robot)
+- [toi13_robot](./toi13/toi13_robot) - หุ่นยนต์ (Robot) [ลองทำ](https://beta.programming.in.th/tasks/toi13_robot), [เฉลย](./toi13/toi13_robot)
 
   <img width="350" alt="toi13_robot" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi13_timerswitch](./toi13/toi13_timerswitch) - สวิตช์เวลา (timer switch) [ลองทำ](https://beta.programming.in.th/tasks/toi13_timerswitch)
+- [toi13_timerswitch](./toi13/toi13_timerswitch) - สวิตช์เวลา (timer switch) [ลองทำ](https://beta.programming.in.th/tasks/toi13_timerswitch), [เฉลย](./toi13/toi13_timerswitch)
 
   <img width="350" alt="toi13_timerswitch" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi13_traveler](./toi13/toi13_traveler) - การเดินทางโดยประหยัด (Budget Travelling) [ลองทำ](https://beta.programming.in.th/tasks/toi13_traveler)
+- [toi13_traveler](./toi13/toi13_traveler) - การเดินทางโดยประหยัด (Budget Travelling) [ลองทำ](https://beta.programming.in.th/tasks/toi13_traveler), [เฉลย](./toi13/toi13_traveler)
 
   <img width="350" alt="toi13_traveler" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -269,27 +269,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI12 day ?
 
-- [toi12_barrier](./toi12/toi12_barrier) - เขื่อนกันคลื่น [ลองทำ](https://beta.programming.in.th/tasks/toi12_barrier)
+- [toi12_barrier](./toi12/toi12_barrier) - เขื่อนกันคลื่น [ลองทำ](https://beta.programming.in.th/tasks/toi12_barrier), [เฉลย](./toi12/toi12_barrier)
 
   <img width="350" alt="toi12_barrier" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_cablecar](./toi12/toi12_cablecar) - กระเช้าไฟฟ้า [ลองทำ](https://beta.programming.in.th/tasks/toi12_cablecar)
+- [toi12_cablecar](./toi12/toi12_cablecar) - กระเช้าไฟฟ้า [ลองทำ](https://beta.programming.in.th/tasks/toi12_cablecar), [เฉลย](./toi12/toi12_cablecar)
 
   <img width="350" alt="toi12_cablecar" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_key](./toi12/toi12_key) - กุญแจลับสมบัติเก้าเส้ง [ลองทำ](https://beta.programming.in.th/tasks/toi12_key)
+- [toi12_key](./toi12/toi12_key) - กุญแจลับสมบัติเก้าเส้ง [ลองทำ](https://beta.programming.in.th/tasks/toi12_key), [เฉลย](./toi12/toi12_key)
 
   <img width="350" alt="toi12_key" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_peak](./toi12/toi12_peak) - ป้อมภูผา [ลองทำ](https://beta.programming.in.th/tasks/toi12_peak)
+- [toi12_peak](./toi12/toi12_peak) - ป้อมภูผา [ลองทำ](https://beta.programming.in.th/tasks/toi12_peak), [เฉลย](./toi12/toi12_peak)
 
   <img width="350" alt="toi12_peak" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_pipe](./toi12/toi12_pipe) - ท่อน้ำ [ลองทำ](https://beta.programming.in.th/tasks/toi12_pipe)
+- [toi12_pipe](./toi12/toi12_pipe) - ท่อน้ำ [ลองทำ](https://beta.programming.in.th/tasks/toi12_pipe), [เฉลย](./toi12/toi12_pipe)
 
   <img width="350" alt="toi12_pipe" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi12_weakpoint](./toi12/toi12_weakpoint) - กำจัดจุดอ่อน [ลองทำ](https://beta.programming.in.th/tasks/toi12_weakpoint)
+- [toi12_weakpoint](./toi12/toi12_weakpoint) - กำจัดจุดอ่อน [ลองทำ](https://beta.programming.in.th/tasks/toi12_weakpoint), [เฉลย](./toi12/toi12_weakpoint)
 
   <img width="350" alt="toi12_weakpoint" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -301,27 +301,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI11 day ?
 
-- [toi11_candle](./toi11/toi11_candle) - จุดเทียนภาวนา (Candle Lighting Prayer) [ลองทำ](https://beta.programming.in.th/tasks/toi11_candle)
+- [toi11_candle](./toi11/toi11_candle) - จุดเทียนภาวนา (Candle Lighting Prayer) [ลองทำ](https://beta.programming.in.th/tasks/toi11_candle), [เฉลย](./toi11/toi11_candle)
 
   <img width="350" alt="toi11_candle" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi11_cannon](./toi11/toi11_cannon) - ปืนใหญ่แห่งป้อมปราการ (Cannons at the Fort) [ลองทำ](https://beta.programming.in.th/tasks/toi11_cannon)
+- [toi11_cannon](./toi11/toi11_cannon) - ปืนใหญ่แห่งป้อมปราการ (Cannons at the Fort) [ลองทำ](https://beta.programming.in.th/tasks/toi11_cannon), [เฉลย](./toi11/toi11_cannon)
 
   <img width="350" alt="toi11_cannon" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi11_labor](./toi11/toi11_labor) - กุลีแห่งท่าเรือ (Labor at the Deck) [ลองทำ](https://beta.programming.in.th/tasks/toi11_labor)
+- [toi11_labor](./toi11/toi11_labor) - กุลีแห่งท่าเรือ (Labor at the Deck) [ลองทำ](https://beta.programming.in.th/tasks/toi11_labor), [เฉลย](./toi11/toi11_labor)
 
   <img width="350" alt="toi11_labor" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi11_observatory](./toi11/toi11_observatory) - หอดูดาว (Observatory) [ลองทำ](https://beta.programming.in.th/tasks/toi11_observatory)
+- [toi11_observatory](./toi11/toi11_observatory) - หอดูดาว (Observatory) [ลองทำ](https://beta.programming.in.th/tasks/toi11_observatory), [เฉลย](./toi11/toi11_observatory)
 
   <img width="350" alt="toi11_observatory" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi11_place](./toi11/toi11_place) - สถานที่ศักดิ์สิทธิ์ (Sacred Places) [ลองทำ](https://beta.programming.in.th/tasks/toi11_place)
+- [toi11_place](./toi11/toi11_place) - สถานที่ศักดิ์สิทธิ์ (Sacred Places) [ลองทำ](https://beta.programming.in.th/tasks/toi11_place), [เฉลย](./toi11/toi11_place)
 
   <img width="350" alt="toi11_place" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi11_segitiga](./toi11/toi11_segitiga) - การดำเนินการซือกีตีกา (Segi Tiga Operation) [ลองทำ](https://beta.programming.in.th/tasks/toi11_segitiga)
+- [toi11_segitiga](./toi11/toi11_segitiga) - การดำเนินการซือกีตีกา (Segi Tiga Operation) [ลองทำ](https://beta.programming.in.th/tasks/toi11_segitiga), [เฉลย](./toi11/toi11_segitiga)
 
   <img width="350" alt="toi11_segitiga" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -335,43 +335,43 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI10 day ?
 
-- [toi10_catcode](./toi10/toi10_catcode) - รหัสวิฬาร์ (CAT Codes) [ลองทำ](https://beta.programming.in.th/tasks/toi10_catcode)
+- [toi10_catcode](./toi10/toi10_catcode) - รหัสวิฬาร์ (CAT Codes) [ลองทำ](https://beta.programming.in.th/tasks/toi10_catcode), [เฉลย](./toi10/toi10_catcode)
 
   <img width="350" alt="toi10_catcode" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_chest](./toi10/toi10_chest) - ถอดรหัสหีบสมบัติ (Treasure Chest) [ลองทำ](https://beta.programming.in.th/tasks/toi10_chest)
+- [toi10_chest](./toi10/toi10_chest) - ถอดรหัสหีบสมบัติ (Treasure Chest) [ลองทำ](https://beta.programming.in.th/tasks/toi10_chest), [เฉลย](./toi10/toi10_chest)
 
   <img width="350" alt="toi10_chest" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_crazyadmin](./toi10/toi10_crazyadmin) - แอดมินเจ้าระเบียบ (Crazy Admin) [ลองทำ](https://beta.programming.in.th/tasks/toi10_crazyadmin)
+- [toi10_crazyadmin](./toi10/toi10_crazyadmin) - แอดมินเจ้าระเบียบ (Crazy Admin) [ลองทำ](https://beta.programming.in.th/tasks/toi10_crazyadmin), [เฉลย](./toi10/toi10_crazyadmin)
 
   <img width="350" alt="toi10_crazyadmin" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_fortress](./toi10/toi10_fortress) - ป้อม 8 ทิศ (Fortress) [ลองทำ](https://beta.programming.in.th/tasks/toi10_fortress)
+- [toi10_fortress](./toi10/toi10_fortress) - ป้อม 8 ทิศ (Fortress) [ลองทำ](https://beta.programming.in.th/tasks/toi10_fortress), [เฉลย](./toi10/toi10_fortress)
 
   <img width="350" alt="toi10_fortress" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_goschool](./toi10/toi10_goschool) - ไปโรงเรียน (Go to School) [ลองทำ](https://beta.programming.in.th/tasks/toi10_goschool)
+- [toi10_goschool](./toi10/toi10_goschool) - ไปโรงเรียน (Go to School) [ลองทำ](https://beta.programming.in.th/tasks/toi10_goschool), [เฉลย](./toi10/toi10_goschool)
 
   <img width="350" alt="toi10_goschool" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_map](./toi10/toi10_map) - แผนที่ลายแทง (Map) [ลองทำ](https://beta.programming.in.th/tasks/toi10_map)
+- [toi10_map](./toi10/toi10_map) - แผนที่ลายแทง (Map) [ลองทำ](https://beta.programming.in.th/tasks/toi10_map), [เฉลย](./toi10/toi10_map)
 
   <img width="350" alt="toi10_map" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_monkey](./toi10/toi10_monkey) - ลิงไต่ราว (Climbing Monkey) [ลองทำ](https://beta.programming.in.th/tasks/toi10_monkey)
+- [toi10_monkey](./toi10/toi10_monkey) - ลิงไต่ราว (Climbing Monkey) [ลองทำ](https://beta.programming.in.th/tasks/toi10_monkey), [เฉลย](./toi10/toi10_monkey)
 
   <img width="350" alt="toi10_monkey" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_pair](./toi10/toi10_pair) - เกมประกบคู่ (Pairs of Four) [ลองทำ](https://beta.programming.in.th/tasks/toi10_pair)
+- [toi10_pair](./toi10/toi10_pair) - เกมประกบคู่ (Pairs of Four) [ลองทำ](https://beta.programming.in.th/tasks/toi10_pair), [เฉลย](./toi10/toi10_pair)
 
   <img width="350" alt="toi10_pair" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_prime](./toi10/toi10_prime) - จำนวนเฉพาะ (Prime) [ลองทำ](https://beta.programming.in.th/tasks/toi10_prime)
+- [toi10_prime](./toi10/toi10_prime) - จำนวนเฉพาะ (Prime) [ลองทำ](https://beta.programming.in.th/tasks/toi10_prime), [เฉลย](./toi10/toi10_prime)
 
   <img width="350" alt="toi10_prime" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi10_raider](./toi10/toi10_raider) - นักล่าสมบัติ (TOI Raider) [ลองทำ](https://beta.programming.in.th/tasks/toi10_raider)
+- [toi10_raider](./toi10/toi10_raider) - นักล่าสมบัติ (TOI Raider) [ลองทำ](https://beta.programming.in.th/tasks/toi10_raider), [เฉลย](./toi10/toi10_raider)
 
   <img width="350" alt="toi10_raider" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -383,27 +383,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI9 day ?
 
-- [toi9_beehive](./toi9/toi9_beehive) - รวงผึ้ง (Beehive) [ลองทำ](https://beta.programming.in.th/tasks/toi9_beehive)
+- [toi9_beehive](./toi9/toi9_beehive) - รวงผึ้ง (Beehive) [ลองทำ](https://beta.programming.in.th/tasks/toi9_beehive), [เฉลย](./toi9/toi9_beehive)
 
   <img width="350" alt="toi9_beehive" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi9_disaster](./toi9/toi9_disaster) - เส้นทางเตือนภัยพิบัติ (Disaster) [ลองทำ](https://beta.programming.in.th/tasks/toi9_disaster)
+- [toi9_disaster](./toi9/toi9_disaster) - เส้นทางเตือนภัยพิบัติ (Disaster) [ลองทำ](https://beta.programming.in.th/tasks/toi9_disaster), [เฉลย](./toi9/toi9_disaster)
 
   <img width="350" alt="toi9_disaster" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi9_fence](./toi9/toi9_fence) - รั้วระแนงปลูกดอกไม้ (Fence) [ลองทำ](https://beta.programming.in.th/tasks/toi9_fence)
+- [toi9_fence](./toi9/toi9_fence) - รั้วระแนงปลูกดอกไม้ (Fence) [ลองทำ](https://beta.programming.in.th/tasks/toi9_fence), [เฉลย](./toi9/toi9_fence)
 
   <img width="350" alt="toi9_fence" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi9_pipe](./toi9/toi9_pipe) - แผนผังท่อประปา (Pipe) [ลองทำ](https://beta.programming.in.th/tasks/toi9_pipe)
+- [toi9_pipe](./toi9/toi9_pipe) - แผนผังท่อประปา (Pipe) [ลองทำ](https://beta.programming.in.th/tasks/toi9_pipe), [เฉลย](./toi9/toi9_pipe)
 
   <img width="350" alt="toi9_pipe" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi9_spaceship](./toi9/toi9_spaceship) - ระบบนำทางยานอวกาศ (Spaceship) [ลองทำ](https://beta.programming.in.th/tasks/toi9_spaceship)
+- [toi9_spaceship](./toi9/toi9_spaceship) - ระบบนำทางยานอวกาศ (Spaceship) [ลองทำ](https://beta.programming.in.th/tasks/toi9_spaceship), [เฉลย](./toi9/toi9_spaceship)
 
   <img width="350" alt="toi9_spaceship" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi9_wizards](./toi9/toi9_wizards) - นักเวทย์แห่งต๋อย (Wizards of TOI) [ลองทำ](https://beta.programming.in.th/tasks/toi9_wizards)
+- [toi9_wizards](./toi9/toi9_wizards) - นักเวทย์แห่งต๋อย (Wizards of TOI) [ลองทำ](https://beta.programming.in.th/tasks/toi9_wizards), [เฉลย](./toi9/toi9_wizards)
 
   <img width="350" alt="toi9_wizards" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -415,27 +415,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI8 day ?
 
-- [toi8_electricity](./toi8/toi8_electricity) - ส่งกระแสไฟฟ้า (electricity) [ลองทำ](https://beta.programming.in.th/tasks/toi8_electricity)
+- [toi8_electricity](./toi8/toi8_electricity) - ส่งกระแสไฟฟ้า (electricity) [ลองทำ](https://beta.programming.in.th/tasks/toi8_electricity), [เฉลย](./toi8/toi8_electricity)
 
   <img width="350" alt="toi8_electricity" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi8_fighter](./toi8/toi8_fighter) - นักสู้ตัวเลข (fighter) [ลองทำ](https://beta.programming.in.th/tasks/toi8_fighter)
+- [toi8_fighter](./toi8/toi8_fighter) - นักสู้ตัวเลข (fighter) [ลองทำ](https://beta.programming.in.th/tasks/toi8_fighter), [เฉลย](./toi8/toi8_fighter)
 
   <img width="350" alt="toi8_fighter" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi8_location](./toi8/toi8_location) - หาทำเลตั้งศูนย์บริการลูกค้า (location) [ลองทำ](https://beta.programming.in.th/tasks/toi8_location)
+- [toi8_location](./toi8/toi8_location) - หาทำเลตั้งศูนย์บริการลูกค้า (location) [ลองทำ](https://beta.programming.in.th/tasks/toi8_location), [เฉลย](./toi8/toi8_location)
 
   <img width="350" alt="toi8_location" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi8_maze](./toi8/toi8_maze) - ฝ่าเขาวงกต (maze) [ลองทำ](https://beta.programming.in.th/tasks/toi8_maze)
+- [toi8_maze](./toi8/toi8_maze) - ฝ่าเขาวงกต (maze) [ลองทำ](https://beta.programming.in.th/tasks/toi8_maze), [เฉลย](./toi8/toi8_maze)
 
   <img width="350" alt="toi8_maze" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi8_schedule](./toi8/toi8_schedule) - จัดลำดับการทดลอง [ลองทำ](https://beta.programming.in.th/tasks/toi8_schedule)
+- [toi8_schedule](./toi8/toi8_schedule) - จัดลำดับการทดลอง [ลองทำ](https://beta.programming.in.th/tasks/toi8_schedule), [เฉลย](./toi8/toi8_schedule)
 
   <img width="350" alt="toi8_schedule" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi8_sport](./toi8/toi8_sport) - ผลการแข่งกีฬา (sport) [ลองทำ](https://beta.programming.in.th/tasks/toi8_sport)
+- [toi8_sport](./toi8/toi8_sport) - ผลการแข่งกีฬา (sport) [ลองทำ](https://beta.programming.in.th/tasks/toi8_sport), [เฉลย](./toi8/toi8_sport)
 
   <img width="350" alt="toi8_sport" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -447,27 +447,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI7 day ?
 
-- [toi7_bomb](./toi7/toi7_bomb) - ระเบิดมหาประลัย (bomb) [ลองทำ](https://beta.programming.in.th/tasks/toi7_bomb)
+- [toi7_bomb](./toi7/toi7_bomb) - ระเบิดมหาประลัย (bomb) [ลองทำ](https://beta.programming.in.th/tasks/toi7_bomb), [เฉลย](./toi7/toi7_bomb)
 
   <img width="350" alt="toi7_bomb" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi7_car](./toi7/toi7_car) - ขับรถหลบสิ่งกีดขวาง (Car) [ลองทำ](https://beta.programming.in.th/tasks/toi7_car)
+- [toi7_car](./toi7/toi7_car) - ขับรถหลบสิ่งกีดขวาง (Car) [ลองทำ](https://beta.programming.in.th/tasks/toi7_car), [เฉลย](./toi7/toi7_car)
 
   <img width="350" alt="toi7_car" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi7_food](./toi7/toi7_food) - อาหารโอชา (Food) [ลองทำ](https://beta.programming.in.th/tasks/toi7_food)
+- [toi7_food](./toi7/toi7_food) - อาหารโอชา (Food) [ลองทำ](https://beta.programming.in.th/tasks/toi7_food), [เฉลย](./toi7/toi7_food)
 
   <img width="350" alt="toi7_food" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi7_pair](./toi7/toi7_pair) - คู่ตัวเลขเด่น (Pair) [ลองทำ](https://beta.programming.in.th/tasks/toi7_pair)
+- [toi7_pair](./toi7/toi7_pair) - คู่ตัวเลขเด่น (Pair) [ลองทำ](https://beta.programming.in.th/tasks/toi7_pair), [เฉลย](./toi7/toi7_pair)
 
   <img width="350" alt="toi7_pair" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi7_sewer](./toi7/toi7_sewer) - ท่อระบายน้ำ (Sewer) [ลองทำ](https://beta.programming.in.th/tasks/toi7_sewer)
+- [toi7_sewer](./toi7/toi7_sewer) - ท่อระบายน้ำ (Sewer) [ลองทำ](https://beta.programming.in.th/tasks/toi7_sewer), [เฉลย](./toi7/toi7_sewer)
 
   <img width="350" alt="toi7_sewer" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi7_space](./toi7/toi7_space) - สถานีอวกาศ (Space) [ลองทำ](https://beta.programming.in.th/tasks/toi7_space)
+- [toi7_space](./toi7/toi7_space) - สถานีอวกาศ (Space) [ลองทำ](https://beta.programming.in.th/tasks/toi7_space), [เฉลย](./toi7/toi7_space)
 
   <img width="350" alt="toi7_space" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -479,27 +479,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI6 day ?
 
-- [toi6_domino](./toi6/toi6_domino) - ดอมมิโนฉงน (dominoes) [ลองทำ](https://beta.programming.in.th/tasks/toi6_domino)
+- [toi6_domino](./toi6/toi6_domino) - ดอมมิโนฉงน (dominoes) [ลองทำ](https://beta.programming.in.th/tasks/toi6_domino), [เฉลย](./toi6/toi6_domino)
 
   <img width="350" alt="toi6_domino" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi6_gem](./toi6/toi6_gem) - ปะวะหล่ำ (Gem) [ลองทำ](https://beta.programming.in.th/tasks/toi6_gem)
+- [toi6_gem](./toi6/toi6_gem) - ปะวะหล่ำ (Gem) [ลองทำ](https://beta.programming.in.th/tasks/toi6_gem), [เฉลย](./toi6/toi6_gem)
 
   <img width="350" alt="toi6_gem" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi6_hotel](./toi6/toi6_hotel) - โรงแรมในฝัน (Hotel) [ลองทำ](https://beta.programming.in.th/tasks/toi6_hotel)
+- [toi6_hotel](./toi6/toi6_hotel) - โรงแรมในฝัน (Hotel) [ลองทำ](https://beta.programming.in.th/tasks/toi6_hotel), [เฉลย](./toi6/toi6_hotel)
 
   <img width="350" alt="toi6_hotel" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi6_jail](./toi6/toi6_jail) - คุกหฤโหด (Jail) [ลองทำ](https://beta.programming.in.th/tasks/toi6_jail)
+- [toi6_jail](./toi6/toi6_jail) - คุกหฤโหด (Jail) [ลองทำ](https://beta.programming.in.th/tasks/toi6_jail), [เฉลย](./toi6/toi6_jail)
 
   <img width="350" alt="toi6_jail" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi6_schedule](./toi6/toi6_schedule) - การต่อโทรศัพท์ (Schedules) [ลองทำ](https://beta.programming.in.th/tasks/toi6_schedule)
+- [toi6_schedule](./toi6/toi6_schedule) - การต่อโทรศัพท์ (Schedules) [ลองทำ](https://beta.programming.in.th/tasks/toi6_schedule), [เฉลย](./toi6/toi6_schedule)
 
   <img width="350" alt="toi6_schedule" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi6_tree](./toi6/toi6_tree) - คู่ต้นไม้ (Trees) [ลองทำ](https://beta.programming.in.th/tasks/toi6_tree)
+- [toi6_tree](./toi6/toi6_tree) - คู่ต้นไม้ (Trees) [ลองทำ](https://beta.programming.in.th/tasks/toi6_tree), [เฉลย](./toi6/toi6_tree)
 
   <img width="350" alt="toi6_tree" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -511,27 +511,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI5 day ?
 
-- [toi5_jump](./toi5/toi5_jump) - กระโดดข้ามเส้น (Jump) [ลองทำ](https://beta.programming.in.th/tasks/toi5_jump)
+- [toi5_jump](./toi5/toi5_jump) - กระโดดข้ามเส้น (Jump) [ลองทำ](https://beta.programming.in.th/tasks/toi5_jump), [เฉลย](./toi5/toi5_jump)
 
   <img width="350" alt="toi5_jump" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi5_land](./toi5/toi5_land) - ราคาที่ดินสุดหรรษา (Happy Land) [ลองทำ](https://beta.programming.in.th/tasks/toi5_land)
+- [toi5_land](./toi5/toi5_land) - ราคาที่ดินสุดหรรษา (Happy Land) [ลองทำ](https://beta.programming.in.th/tasks/toi5_land), [เฉลย](./toi5/toi5_land)
 
   <img width="350" alt="toi5_land" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi5_lkd](./toi5/toi5_lkd) - ถอดรหัสแห่งความรัก (Love Key Decoder) [ลองทำ](https://beta.programming.in.th/tasks/toi5_lkd)
+- [toi5_lkd](./toi5/toi5_lkd) - ถอดรหัสแห่งความรัก (Love Key Decoder) [ลองทำ](https://beta.programming.in.th/tasks/toi5_lkd), [เฉลย](./toi5/toi5_lkd)
 
   <img width="350" alt="toi5_lkd" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi5_nsw](./toi5/toi5_nsw) - วงล้อแปลงตัวเลข (Number Substitution Wheels) [ลองทำ](https://beta.programming.in.th/tasks/toi5_nsw)
+- [toi5_nsw](./toi5/toi5_nsw) - วงล้อแปลงตัวเลข (Number Substitution Wheels) [ลองทำ](https://beta.programming.in.th/tasks/toi5_nsw), [เฉลย](./toi5/toi5_nsw)
 
   <img width="350" alt="toi5_nsw" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi5_roi](./toi5/toi5_roi) - จุดคุ้มทุน (Return On Investment) [ลองทำ](https://beta.programming.in.th/tasks/toi5_roi)
+- [toi5_roi](./toi5/toi5_roi) - จุดคุ้มทุน (Return On Investment) [ลองทำ](https://beta.programming.in.th/tasks/toi5_roi), [เฉลย](./toi5/toi5_roi)
 
   <img width="350" alt="toi5_roi" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi5_tug](./toi5/toi5_tug) - จับคู่ชักเย่อ (Tug-of-war) [ลองทำ](https://beta.programming.in.th/tasks/toi5_tug)
+- [toi5_tug](./toi5/toi5_tug) - จับคู่ชักเย่อ (Tug-of-war) [ลองทำ](https://beta.programming.in.th/tasks/toi5_tug), [เฉลย](./toi5/toi5_tug)
 
   <img width="350" alt="toi5_tug" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -543,27 +543,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI4 day ?
 
-- [toi4_key](./toi4/toi4_key) - กุญแจคุโรมาตี้ (Cromartie Key) [ลองทำ](https://beta.programming.in.th/tasks/toi4_key)
+- [toi4_key](./toi4/toi4_key) - กุญแจคุโรมาตี้ (Cromartie Key) [ลองทำ](https://beta.programming.in.th/tasks/toi4_key), [เฉลย](./toi4/toi4_key)
 
   <img width="350" alt="toi4_key" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi4_logistics](./toi4/toi4_logistics) - ขนส่งสินค้า (Logistics) [ลองทำ](https://beta.programming.in.th/tasks/toi4_logistics)
+- [toi4_logistics](./toi4/toi4_logistics) - ขนส่งสินค้า (Logistics) [ลองทำ](https://beta.programming.in.th/tasks/toi4_logistics), [เฉลย](./toi4/toi4_logistics)
 
   <img width="350" alt="toi4_logistics" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi4_mountain](./toi4/toi4_mountain) - เทือกเขาคุโรมาตี้ (Cromartie Mountain) [ลองทำ](https://beta.programming.in.th/tasks/toi4_mountain)
+- [toi4_mountain](./toi4/toi4_mountain) - เทือกเขาคุโรมาตี้ (Cromartie Mountain) [ลองทำ](https://beta.programming.in.th/tasks/toi4_mountain), [เฉลย](./toi4/toi4_mountain)
 
   <img width="350" alt="toi4_mountain" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi4_school](./toi4/toi4_school) - อาคารเรียนคุโรมาตี้ (Cromartie School) [ลองทำ](https://beta.programming.in.th/tasks/toi4_school)
+- [toi4_school](./toi4/toi4_school) - อาคารเรียนคุโรมาตี้ (Cromartie School) [ลองทำ](https://beta.programming.in.th/tasks/toi4_school), [เฉลย](./toi4/toi4_school)
 
   <img width="350" alt="toi4_school" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi4_sms](./toi4/toi4_sms) - จอมกดส่งข้อความ (SMS Thumb) [ลองทำ](https://beta.programming.in.th/tasks/toi4_sms)
+- [toi4_sms](./toi4/toi4_sms) - จอมกดส่งข้อความ (SMS Thumb) [ลองทำ](https://beta.programming.in.th/tasks/toi4_sms), [เฉลย](./toi4/toi4_sms)
 
   <img width="350" alt="toi4_sms" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi4_temp](./toi4/toi4_temp) - ไต่อุณหภูมิ (Temperature is Rising) [ลองทำ](https://beta.programming.in.th/tasks/toi4_temp)
+- [toi4_temp](./toi4/toi4_temp) - ไต่อุณหภูมิ (Temperature is Rising) [ลองทำ](https://beta.programming.in.th/tasks/toi4_temp), [เฉลย](./toi4/toi4_temp)
 
   <img width="350" alt="toi4_temp" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -575,31 +575,31 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI3 day ?
 
-- [toi3_block](./toi3/toi3_block) - บล็อกเกม (Block Game) [ลองทำ](https://beta.programming.in.th/tasks/toi3_block)
+- [toi3_block](./toi3/toi3_block) - บล็อกเกม (Block Game) [ลองทำ](https://beta.programming.in.th/tasks/toi3_block), [เฉลย](./toi3/toi3_block)
 
   <img width="350" alt="toi3_block" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_cake](./toi3/toi3_cake) - ใบสั่งเค้กพิศวง (Silly Bakery) [ลองทำ](https://beta.programming.in.th/tasks/toi3_cake)
+- [toi3_cake](./toi3/toi3_cake) - ใบสั่งเค้กพิศวง (Silly Bakery) [ลองทำ](https://beta.programming.in.th/tasks/toi3_cake), [เฉลย](./toi3/toi3_cake)
 
   <img width="350" alt="toi3_cake" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_express](./toi3/toi3_express) - ฟังก์ชันแทนนิพจน์ (Expression) [ลองทำ](https://beta.programming.in.th/tasks/toi3_express)
+- [toi3_express](./toi3/toi3_express) - ฟังก์ชันแทนนิพจน์ (Expression) [ลองทำ](https://beta.programming.in.th/tasks/toi3_express), [เฉลย](./toi3/toi3_express)
 
   <img width="350" alt="toi3_express" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_filter](./toi3/toi3_filter) - ผ้าม่าน (Filter) [ลองทำ](https://beta.programming.in.th/tasks/toi3_filter)
+- [toi3_filter](./toi3/toi3_filter) - ผ้าม่าน (Filter) [ลองทำ](https://beta.programming.in.th/tasks/toi3_filter), [เฉลย](./toi3/toi3_filter)
 
   <img width="350" alt="toi3_filter" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_tiling](./toi3/toi3_tiling) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tiling)
+- [toi3_tiling](./toi3/toi3_tiling) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tiling), [เฉลย](./toi3/toi3_tiling)
 
   <img width="350" alt="toi3_tiling" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_tiling](./toi3/toi3_tiling) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tiling)
+- [toi3_tiling](./toi3/toi3_tiling) - กระเบื้อง (Tiling) [ลองทำ](https://beta.programming.in.th/tasks/toi3_tiling), [เฉลย](./toi3/toi3_tiling)
 
   <img width="350" alt="toi3_tiling" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi3_treasure](./toi3/toi3_treasure) - ขุมทรัพย์ผจญภัย (Treasure) [ลองทำ](https://beta.programming.in.th/tasks/toi3_treasure)
+- [toi3_treasure](./toi3/toi3_treasure) - ขุมทรัพย์ผจญภัย (Treasure) [ลองทำ](https://beta.programming.in.th/tasks/toi3_treasure), [เฉลย](./toi3/toi3_treasure)
 
   <img width="350" alt="toi3_treasure" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -611,27 +611,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI2 day ?
 
-- [toi2_bee](./toi2/toi2_bee) - ผึ้งสายพันธุ์พิเศษ (Bee) [ลองทำ](https://beta.programming.in.th/tasks/toi2_bee)
+- [toi2_bee](./toi2/toi2_bee) - ผึ้งสายพันธุ์พิเศษ (Bee) [ลองทำ](https://beta.programming.in.th/tasks/toi2_bee), [เฉลย](./toi2/toi2_bee)
 
   <img width="350" alt="toi2_bee" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi2_dice](./toi2/toi2_dice) - ลูกเต๋า (dice) [ลองทำ](https://beta.programming.in.th/tasks/toi2_dice)
+- [toi2_dice](./toi2/toi2_dice) - ลูกเต๋า (dice) [ลองทำ](https://beta.programming.in.th/tasks/toi2_dice), [เฉลย](./toi2/toi2_dice)
 
   <img width="350" alt="toi2_dice" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi2_maxseq](./toi2/toi2_maxseq) - ลำดับย่อยของตัวเลขที่มีตำแหน่งต่อเนื่องกันที่มีค่าสูงสุด (maxseq) [ลองทำ](https://beta.programming.in.th/tasks/toi2_maxseq)
+- [toi2_maxseq](./toi2/toi2_maxseq) - ลำดับย่อยของตัวเลขที่มีตำแหน่งต่อเนื่องกันที่มีค่าสูงสุด (maxseq) [ลองทำ](https://beta.programming.in.th/tasks/toi2_maxseq), [เฉลย](./toi2/toi2_maxseq)
 
   <img width="350" alt="toi2_maxseq" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi2_segment](./toi2/toi2_segment) - ระบบแสดงผลตัวเลขแบบเจ็ดส่วน (segment) [ลองทำ](https://beta.programming.in.th/tasks/toi2_segment)
+- [toi2_segment](./toi2/toi2_segment) - ระบบแสดงผลตัวเลขแบบเจ็ดส่วน (segment) [ลองทำ](https://beta.programming.in.th/tasks/toi2_segment), [เฉลย](./toi2/toi2_segment)
 
   <img width="350" alt="toi2_segment" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi2_skyline](./toi2/toi2_skyline) - เส้นขอบฟ้า (skyline) [ลองทำ](https://beta.programming.in.th/tasks/toi2_skyline)
+- [toi2_skyline](./toi2/toi2_skyline) - เส้นขอบฟ้า (skyline) [ลองทำ](https://beta.programming.in.th/tasks/toi2_skyline), [เฉลย](./toi2/toi2_skyline)
 
   <img width="350" alt="toi2_skyline" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
-- [toi2_word](./toi2/toi2_word) - ปริศนาค้นหาคำ (word) [ลองทำ](https://beta.programming.in.th/tasks/toi2_word)
+- [toi2_word](./toi2/toi2_word) - ปริศนาค้นหาคำ (word) [ลองทำ](https://beta.programming.in.th/tasks/toi2_word), [เฉลย](./toi2/toi2_word)
 
   <img width="350" alt="toi2_word" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
 
@@ -647,27 +647,27 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ### เฉลย TOI1 day 1
 
-- [toi1_roman](./toi1/toi1_roman) - เลขโรมัน (Roman) [ลองทำ](https://beta.programming.in.th/tasks/toi1_roman)
+- [toi1_roman](./toi1/toi1_roman) - เลขโรมัน (Roman) [ลองทำ](https://beta.programming.in.th/tasks/toi1_roman), [เฉลย](./toi1/toi1_roman)
 
   <img width="350" alt="toi1_roman" src="https://github.com/user-attachments/assets/f6962a56-6b7c-467e-9dc9-76d23c80c6e9">
 
-- [toi1_nugget](./toi1/toi1_nugget) - เลขนักเก็ต (Nugget Number) [ลองทำ](https://beta.programming.in.th/tasks/toi1_nugget)
+- [toi1_nugget](./toi1/toi1_nugget) - เลขนักเก็ต (Nugget Number) [ลองทำ](https://beta.programming.in.th/tasks/toi1_nugget), [เฉลย](./toi1/toi1_nugget)
 
   <img width="350" alt="toi1_nugget" src="https://github.com/user-attachments/assets/877262be-16c4-48a3-9c9b-0b2fdda13b6f">
 
-- [toi1_pattern](./toi1/toi1_pattern) - ลายผ้าไหม [ลองทำ](https://beta.programming.in.th/tasks/toi1_pattern)
+- [toi1_pattern](./toi1/toi1_pattern) - ลายผ้าไหม [ลองทำ](https://beta.programming.in.th/tasks/toi1_pattern), [เฉลย](./toi1/toi1_pattern)
 
   <img width="350" alt="toi1_pattern" src="https://github.com/user-attachments/assets/fb75af18-fc7e-44f5-84d4-e37fb23f056e">
 
-- [toi1_plate](./toi1/toi1_plate) - ถาดอาหาร [ลองทำ](https://beta.programming.in.th/tasks/toi1_plate)
+- [toi1_plate](./toi1/toi1_plate) - ถาดอาหาร [ลองทำ](https://beta.programming.in.th/tasks/toi1_plate), [เฉลย](./toi1/toi1_plate)
 
   <img width="350" alt="toi1_plate" src="https://github.com/user-attachments/assets/d0b128aa-c7cd-4683-a29e-4eb5a11720f7">
 
-- [toi1_chain](./toi1/toi1_chain) - โซ่คำ (Word Chain) [ลองทำ](https://beta.programming.in.th/tasks/toi1_chain)
+- [toi1_chain](./toi1/toi1_chain) - โซ่คำ (Word Chain) [ลองทำ](https://beta.programming.in.th/tasks/toi1_chain), [เฉลย](./toi1/toi1_chain)
 
   <img width="350" alt="toi1_chain" src="https://github.com/user-attachments/assets/3e39615d-4189-40cb-88d3-4b7543281b63">
 
-- [toi1_brick](./toi1/toi1_brick) - ก้อนอิฐ [ลองทำ](https://beta.programming.in.th/tasks/toi1_brick)
+- [toi1_brick](./toi1/toi1_brick) - ก้อนอิฐ [ลองทำ](https://beta.programming.in.th/tasks/toi1_brick), [เฉลย](./toi1/toi1_brick)
 
   <img width="350" alt="toi1_brick" src="https://github.com/user-attachments/assets/71bd055c-b729-448d-8f21-99edf37cdabf">
 <!-- @codegen_tois end -->

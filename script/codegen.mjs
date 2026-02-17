@@ -52,7 +52,7 @@ ${tasks
     (t) =>
       `- [${t.problem_id}](${rel_to_root}${toi.year}/${t.problem_id}) - ${
         t.problem_title
-      } [ลองทำ](${t.problem_link})\n\n  <img width="350" alt="${
+      } [ลองทำ](${t.problem_link}), [เฉลย](${rel_to_root}${toi.year}/${t.problem_id})\n\n  <img width="350" alt="${
         t.problem_id
       }" src="${t.image || URL_NO_IMAGE}">`
   )
