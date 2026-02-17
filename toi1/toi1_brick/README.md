@@ -5,5 +5,7 @@
 
 [💎 problem.pdf](./toi1_brick.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+[🎉 toi_brick.cpp](./toi_brick.cpp)
+
+<img width="700" src="https://github.com/user-attachments/assets/71bd055c-b729-448d-8f21-99edf37cdabf" />
 <!-- @codegen_problem end -->

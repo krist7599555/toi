@@ -5,9 +5,9 @@
 
 [💎 problem.pdf](./toi19_range.pdf)
 
-[🎉 solution_segment_tree.cpp](./toi19_range_segment_tree.cpp)
-
 [🎉 solution.cpp](./toi19_range.cpp)
+
+[🎉 solution_segment_tree.cpp](./toi19_range_segment_tree.cpp)
 
 <img width="700" src="https://github.com/krist7599555/toi/assets/19445033/84d7f1c6-da5e-47ca-a795-7161b801600e" />
 <!-- @codegen_problem end -->

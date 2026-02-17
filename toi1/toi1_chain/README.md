@@ -5,5 +5,7 @@
 
 [💎 problem.pdf](./toi1_chain.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+[🎉 solution.cpp](./toi1_chain.cpp)
+
+<img width="700" src="https://github.com/user-attachments/assets/3e39615d-4189-40cb-88d3-4b7543281b63" />
 <!-- @codegen_problem end -->

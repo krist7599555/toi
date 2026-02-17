@@ -1,10 +1,10 @@
 year,day,task,problem_id,problem_title,image
-toi1,0,0,toi1_brick,ก้อนอิฐ,
-toi1,0,0,toi1_chain,โซ่คำ (Word Chain),
-toi1,0,0,toi1_nugget,เลขนักเก็ต (Nugget Number),
-toi1,0,0,toi1_pattern,ลายผ้าไหม,
-toi1,0,0,toi1_plate,ถาดอาหาร,
-toi1,0,0,toi1_roman,เลขโรมัน (Roman),
+toi1,1,1,toi1_roman,เลขโรมัน (Roman),https://github.com/user-attachments/assets/f6962a56-6b7c-467e-9dc9-76d23c80c6e9
+toi1,1,2,toi1_nugget,เลขนักเก็ต (Nugget Number),https://github.com/user-attachments/assets/877262be-16c4-48a3-9c9b-0b2fdda13b6f
+toi1,1,3,toi1_pattern,ลายผ้าไหม,https://github.com/user-attachments/assets/fb75af18-fc7e-44f5-84d4-e37fb23f056e
+toi1,1,1,toi1_plate,ถาดอาหาร,https://github.com/user-attachments/assets/d0b128aa-c7cd-4683-a29e-4eb5a11720f7
+toi1,1,2,toi1_chain,โซ่คำ (Word Chain),https://github.com/user-attachments/assets/3e39615d-4189-40cb-88d3-4b7543281b63
+toi1,1,3,toi1_brick,ก้อนอิฐ,https://github.com/user-attachments/assets/71bd055c-b729-448d-8f21-99edf37cdabf
 toi2,0,0,toi2_bee,ผึ้งสายพันธุ์พิเศษ (Bee),
 toi2,0,0,toi2_dice,ลูกเต๋า (dice),
 toi2,0,0,toi2_maxseq,ลำดับย่อยของตัวเลขที่มีตำแหน่งต่อเนื่องกันที่มีค่าสูงสุด (maxseq),

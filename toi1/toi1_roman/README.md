@@ -5,5 +5,7 @@
 
 [💎 problem.pdf](./toi1_roman.pdf)
 
-<img width="700" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85" />
+[🎉 solution.cpp](./toi1_roman.cpp)
+
+<img width="700" src="https://github.com/user-attachments/assets/f6962a56-6b7c-467e-9dc9-76d23c80c6e9" />
 <!-- @codegen_problem end -->
