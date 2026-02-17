@@ -638,8 +638,9 @@ contribution is always welcome
 <!-- ! THIS IS AUTO GENERATE DOCS. CHANGE THIS WILL RESULT NOTHING -->
 ## [TOI1](./toi1)
 
-<img width="500" alt="toi1 logo" src="https://github.com/krist7599555/toi/assets/19445033/80c80822-7583-4bcd-a705-dae3eacdee85">
+<img width="500" alt="toi1 logo" src="https://github.com/user-attachments/assets/4dd1e31d-b4bc-43ed-83a6-117593e7c8ef">
 
+- มหาวิทยาลัยเกษตรศาสตร์ 21-22 เมษายน 2548
 - รับแค่ภาษา turbo c มีข้อจำกัดด้านการประกาศ array มากมาย
 - ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
 

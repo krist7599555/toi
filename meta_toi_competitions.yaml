@@ -1,6 +1,8 @@
 toi1:
   order: 1
+  logo: https://github.com/user-attachments/assets/4dd1e31d-b4bc-43ed-83a6-117593e7c8ef
   description: |
+    - มหาวิทยาลัยเกษตรศาสตร์ 21-22 เมษายน 2548
     - รับแค่ภาษา turbo c มีข้อจำกัดด้านการประกาศ array มากมาย
     - ส่งตรวจมีสถานะ accept เมื่อผ่านทุก sample case แต่จะไม่บอกคะแนนจาก testcase จริง
 toi2:
